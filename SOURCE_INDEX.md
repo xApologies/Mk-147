@@ -1,0 +1,46 @@
+# Source / provenance index
+
+Original sources are preserved unchanged and remain subject to canon authority. Labels identify filename categories, not verified content summaries. Opaque MASTER files and unnamed images remain unclassified evidence. Genesis Language is a dedicated authority corpus; historical Chimera ontology is superseded for current domai.
+
+- [05_SOURCES/#STYLE(1).pdf](live-model/05_SOURCES/%23STYLE%281%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/36 Agricultural Slices 2(1).pdf](live-model/05_SOURCES/36%20Agricultural%20Slices%202%281%29.pdf) — Agriculture evidence
+- [05_SOURCES/5 Chimera Domai and Magic System Overview.pdf](live-model/05_SOURCES/5%20Chimera%20Domai%20and%20Magic%20System%20Overview.pdf) — Superseded developmental ontology
+- [05_SOURCES/Annual Structure(1).pdf](live-model/05_SOURCES/Annual%20Structure%281%29.pdf) — Calendar/orbital evidence; unresolved discrepancy remains OPEN
+- [05_SOURCES/ARC 1-4(5).pdf](live-model/05_SOURCES/ARC%201-4%285%29.pdf) — Story recovery evidence
+- [05_SOURCES/Calendar - Kira(1).pdf](live-model/05_SOURCES/Calendar%20-%20Kira%281%29.pdf) — Calendar/orbital evidence; unresolved discrepancy remains OPEN
+- [05_SOURCES/Colored Chainmail Robes(1).png](live-model/05_SOURCES/Colored%20Chainmail%20Robes%281%29.png) — Culture/robe/social evidence
+- [05_SOURCES/Culture(1).pdf](live-model/05_SOURCES/Culture%281%29.pdf) — Culture/robe/social evidence
+- [05_SOURCES/Density Ladder(1).png](live-model/05_SOURCES/Density%20Ladder%281%29.png) — Systems visual reference
+- [05_SOURCES/Dimensional Ring(1).pdf](live-model/05_SOURCES/Dimensional%20Ring%281%29.pdf) — Ring evidence; see LOCKED v2 model
+- [05_SOURCES/Experience.png](live-model/05_SOURCES/Experience.png) — Original evidence; specific contribution unverified
+- [05_SOURCES/genesis_language/Domains.pdf](live-model/05_SOURCES/genesis_language/Domains.pdf) — Dedicated language evidence
+- [05_SOURCES/genesis_language/Grammar.pdf](live-model/05_SOURCES/genesis_language/Grammar.pdf) — Dedicated language evidence
+- [05_SOURCES/genesis_language/Phonology.pdf](live-model/05_SOURCES/genesis_language/Phonology.pdf) — Dedicated language evidence
+- [05_SOURCES/genesis_language/Root Family.pdf](live-model/05_SOURCES/genesis_language/Root%20Family.pdf) — Dedicated language evidence
+- [05_SOURCES/genesis_language/Rosetta.pdf](live-model/05_SOURCES/genesis_language/Rosetta.pdf) — Dedicated language evidence
+- [05_SOURCES/genesis_language/Rules.pdf](live-model/05_SOURCES/genesis_language/Rules.pdf) — Dedicated language evidence
+- [05_SOURCES/genesis_language/Structure.pdf](live-model/05_SOURCES/genesis_language/Structure.pdf) — Dedicated language evidence
+- [05_SOURCES/genesis_language/txt/Domains.txt](live-model/05_SOURCES/genesis_language/txt/Domains.txt) — Dedicated language evidence
+- [05_SOURCES/genesis_language/txt/Grammar.txt](live-model/05_SOURCES/genesis_language/txt/Grammar.txt) — Dedicated language evidence
+- [05_SOURCES/genesis_language/txt/Phonology.txt](live-model/05_SOURCES/genesis_language/txt/Phonology.txt) — Dedicated language evidence
+- [05_SOURCES/genesis_language/txt/Root Family.txt](live-model/05_SOURCES/genesis_language/txt/Root%20Family.txt) — Dedicated language evidence
+- [05_SOURCES/genesis_language/txt/Rosetta.txt](live-model/05_SOURCES/genesis_language/txt/Rosetta.txt) — Dedicated language evidence
+- [05_SOURCES/genesis_language/txt/Rules.txt](live-model/05_SOURCES/genesis_language/txt/Rules.txt) — Dedicated language evidence
+- [05_SOURCES/genesis_language/txt/Structure.txt](live-model/05_SOURCES/genesis_language/txt/Structure.txt) — Dedicated language evidence
+- [05_SOURCES/Genesis(1).zip](live-model/05_SOURCES/Genesis%281%29.zip) — Original evidence; specific contribution unverified
+- [05_SOURCES/Kings Tournament(1).png](live-model/05_SOURCES/Kings%20Tournament%281%29.png) — Tournament evidence; Purple Region remains OPEN
+- [05_SOURCES/MASTER_1(2).pdf](live-model/05_SOURCES/MASTER_1%282%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER_schedule(1).pdf](live-model/05_SOURCES/MASTER_schedule%281%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER(10).pdf](live-model/05_SOURCES/MASTER%2810%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER(20261002-172020).pdf](live-model/05_SOURCES/MASTER%2820261002-172020%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER(20261002-173044).pdf](live-model/05_SOURCES/MASTER%2820261002-173044%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER(3).zip](live-model/05_SOURCES/MASTER%283%29.zip) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER(7).pdf](live-model/05_SOURCES/MASTER%287%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER(8).pdf](live-model/05_SOURCES/MASTER%288%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/MASTER(9).pdf](live-model/05_SOURCES/MASTER%289%29.pdf) — Original evidence; specific contribution unverified
+- [05_SOURCES/Months(1).pdf](live-model/05_SOURCES/Months%281%29.pdf) — Calendar/orbital evidence; unresolved discrepancy remains OPEN
+- [05_SOURCES/New Chat.jpeg(1).png](live-model/05_SOURCES/New%20Chat.jpeg%281%29.png) — Original evidence; specific contribution unverified
+- [05_SOURCES/Orbital Model(1).pdf](live-model/05_SOURCES/Orbital%20Model%281%29.pdf) — Calendar/orbital evidence; unresolved discrepancy remains OPEN
+- [05_SOURCES/Scaling(1).png](live-model/05_SOURCES/Scaling%281%29.png) — Systems visual reference
+- [05_SOURCES/Social Engine(1).pdf](live-model/05_SOURCES/Social%20Engine%281%29.pdf) — Culture/robe/social evidence
+- [05_SOURCES/Untitled_Artwork(1).jpg](live-model/05_SOURCES/Untitled_Artwork%281%29.jpg) — Original evidence; specific contribution unverified

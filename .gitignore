@@ -1,0 +1,10 @@
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

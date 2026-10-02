@@ -1,0 +1,1067 @@
+                          =========================================================
+                          GENESIS LANGUAGE GRAMMAR v0.1
+                          MK147 + MK43 ULTRA LANGUAGE ARCHIVE
+                          =========================================================
+
+                          STATUS
+                          =========================================================
+
+                          This document does NOT de ne vocabulary.
+
+                          This document de nes how Genesis functions
+                          as a spoken and written language.
+
+                          Structure de nes:
+
+                            What Genesis believes.
+
+                          Rules de ne:
+
+                            How Genesis behaves.
+
+                          Grammar de nes:
+
+                            How Genesis speaks.
+
+                          Lexicon will later de ne:
+
+                            What Genesis calls things.
+
+                          =========================================================
+                          CORE GRAMMATICAL PHILOSOPHY
+                          =========================================================
+
+                          English is object- rst.
+
+                          Genesis is relationship- rst.
+
+                          English asks:
+
+                            What is the object?
+
+                          Genesis asks:
+
+                            What is the boundary?
+                            What occupies it?
+                            What relationship persists?
+                            What identity closes?
+
+                          English:
+
+                            The mountain exists.
+
+                          Genesis:
+
+                            The mountain persists.
+
+                          English:
+
+                            The wagon is red.
+
+                          Genesis:
+
+                            The wagon expresses Red Basin identity.
+fi
+     fi
+      fi
+           fi
+                fi
+                     fi
+                             fi
+                                     fi
+English:
+
+  The storm is coming.
+
+Genesis:
+
+  Basin instability propagates.
+
+=========================================================
+1. WORD ORDER
+=========================================================
+
+Default Genesis structure:
+
+  Topic
+    →
+  Relationship
+    →
+  Identity
+    →
+  Resolution
+
+Equivalent architectural view:
+
+  Boundary
+    →
+  Relationship
+    →
+  Resolution
+
+Closest English approximation:
+
+  Subject
+    →
+  Object
+    →
+  Verb
+
+Genesis example:
+
+  Gen-vara va ve-ru
+
+Literal:
+
+  Genesis-storm topic propagating
+
+English:
+
+  The Genesis Storm is approaching.
+
+---------------------------------------------------------
+
+Compression Rule:
+
+Common speech often drops particles
+when context is obvious.
+
+Formal:
+
+  gen-vara va ve-ru
+
+Compressed:
+          gen-vara ve-ru
+
+     =========================================================
+     2. PARTICLES
+     =========================================================
+
+     Particles de ne relationships.
+
+     They are more important than many nouns.
+
+     ---------------------------------------------------------
+     TOPIC
+     ---------------------------------------------------------
+
+     va / wa
+
+     Meaning:
+
+          As for...
+          Regarding...
+          Within this context...
+
+     Example:
+
+          ka-en va
+
+          As for this thing...
+
+     ---------------------------------------------------------
+     BOUNDARY
+     ---------------------------------------------------------
+
+     sha
+
+     Meaning:
+
+          Boundary
+          Inside
+          Place
+          Edge
+          Containment
+
+     Example:
+
+          Kira-sha
+
+          Within Kira's boundary.
+
+     ---------------------------------------------------------
+     IDENTITY
+     ---------------------------------------------------------
+
+     en
+
+     Meaning:
+
+          Identity
+          Thing
+          Self-state
+
+     ---------------------------------------------------------
+     RELATIONSHIP
+     ---------------------------------------------------------
+fi
+rel
+
+Meaning:
+
+      Connection
+      Adjacency
+      Relation
+
+---------------------------------------------------------
+OCCUPANCY
+---------------------------------------------------------
+
+da
+
+Meaning:
+
+      Occupies
+      Resides in
+      Exists within
+
+---------------------------------------------------------
+DIRECTION
+---------------------------------------------------------
+
+ve
+
+Meaning:
+
+      Toward
+      Propagating toward
+      Moving toward
+
+---------------------------------------------------------
+INHERITANCE
+---------------------------------------------------------
+
+ar
+
+Meaning:
+
+      Inherits
+      Carries continuity
+
+---------------------------------------------------------
+CAUSE
+---------------------------------------------------------
+
+sera
+
+Meaning:
+
+      Continuity source
+      Because of
+      Through continuity
+
+---------------------------------------------------------
+COMPARISON
+---------------------------------------------------------
+
+tal-rel
+
+Meaning:
+     Relative stabilization
+     Compared relationship
+
+---------------------------------------------------------
+QUESTION
+---------------------------------------------------------
+
+ka?
+
+Placed at sentence end.
+
+=========================================================
+3. PRONOUNS
+=========================================================
+
+Genesis pronouns are boundary-based.
+
+---------------------------------------------------------
+SELF
+---------------------------------------------------------
+
+ka
+
+Within my boundary.
+
+Equivalent:
+
+     I
+     Me
+     This
+
+---------------------------------------------------------
+OTHER
+---------------------------------------------------------
+
+sa
+
+Within your boundary.
+
+Equivalent:
+
+     You
+     That near you
+
+---------------------------------------------------------
+DISTANT
+---------------------------------------------------------
+
+a
+
+Outside both boundaries.
+
+Equivalent:
+
+     They
+     That over there
+
+---------------------------------------------------------
+UNKNOWN
+---------------------------------------------------------
+
+do
+
+Unresolved identity.
+Equivalent:
+
+  What
+  Which
+  Who
+
+---------------------------------------------------------
+SHARED
+---------------------------------------------------------
+
+kara
+
+Shared boundary.
+
+Equivalent:
+
+  We
+  Us
+
+---------------------------------------------------------
+EXTERNAL COLLECTIVE
+---------------------------------------------------------
+
+ara
+
+External group.
+
+Equivalent:
+
+  They
+
+=========================================================
+4. NOUN BEHAVIOR
+=========================================================
+
+Genesis nouns are identity roots.
+
+Common noun forms:
+
+---------------------------------------------------------
+IDENTITY FORM
+---------------------------------------------------------
+
+-en
+
+Thingness.
+
+Example:
+
+  wagon-en
+
+---------------------------------------------------------
+BOUNDARY FORM
+---------------------------------------------------------
+
+-sha
+
+Place / containment form.
+
+Example:
+
+  wagon-sha
+wagon interior
+wagon space
+
+---------------------------------------------------------
+PERSISTENCE FORM
+---------------------------------------------------------
+
+-rin
+
+Persistent object.
+
+Example:
+
+      mountain-rin
+
+---------------------------------------------------------
+TOPOLOGY FORM
+---------------------------------------------------------
+
+-ael
+
+Structural form.
+
+Example:
+
+      bridge-ael
+
+bridge structure
+
+---------------------------------------------------------
+ABSTRACT FORM
+---------------------------------------------------------
+
+-sera
+
+Conceptual continuity.
+
+Example:
+
+      identity-sera
+
+concept of identity
+
+=========================================================
+5. VERB BEHAVIOR
+=========================================================
+
+Genesis verbs are process roots.
+
+---------------------------------------------------------
+
+ar
+      inherit
+
+ve
+      propagate
+
+tal
+      stabilize
+
+kor
+  collapse
+
+tor
+           close
+
+     rin
+           persist
+
+     nor
+       normalize
+
+     rel
+           relate
+
+     da
+       occupy
+
+     ---------------------------------------------------------
+
+     Verb placement:
+
+     Usually sentence- nal.
+
+     Example:
+
+           gen-vel va kor
+
+     =========================================================
+     6. ASPECT / RESOLUTION STATES
+     =========================================================
+
+     Genesis tracks resolution rather than time.
+
+     ---------------------------------------------------------
+     -ta
+     ---------------------------------------------------------
+
+     Completed.
+
+     Resolved.
+
+     Closed.
+
+     ---------------------------------------------------------
+     -ru
+     ---------------------------------------------------------
+
+     Ongoing.
+
+     Propagating.
+
+     ---------------------------------------------------------
+     -ma
+     ---------------------------------------------------------
+
+     Potential.
+
+     Unresolved.
+
+     ---------------------------------------------------------
+     -nai
+     ---------------------------------------------------------
+
+     Failed.
+
+     Absent.
+fi
+     Broken.
+
+     ---------------------------------------------------------
+
+     Examples:
+
+       kor-ta
+         collapsed
+
+       kor-ru
+         collapsing
+
+       kor-ma
+         may collapse
+
+       kor-nai
+         failed collapse
+
+     =========================================================
+     7. ADJECTIVES / QUALITIES
+     =========================================================
+
+     Genesis does not use English-style adjectives.
+
+     Qualities are expressions.
+
+     ---------------------------------------------------------
+     BASIN EXPRESSIONS
+     ---------------------------------------------------------
+
+     wagon nae-ra
+
+     wagon expressing Red Basin
+
+     ---------------------------------------------------------
+     INHERITED STATE
+     ---------------------------------------------------------
+
+     wall tal-rin
+
+     stabilized wall
+
+     ---------------------------------------------------------
+     PERSISTENT STATE
+     ---------------------------------------------------------
+
+     tree rin-deep
+
+     deeply persistent tree
+
+     ---------------------------------------------------------
+     RELATIONAL QUALITY
+     ---------------------------------------------------------
+
+     Nyx rel-rin Kira
+
+     Nyx persists in relation to Kira
+
+     =========================================================
+     8. PLURALITY / GROUPS
+     =========================================================
+
+     Genesis classi es groups by continuity.
+fi
+---------------------------------------------------------
+SINGLE
+---------------------------------------------------------
+
+en
+
+identity
+
+---------------------------------------------------------
+MULTIPLE
+---------------------------------------------------------
+
+en-da
+
+occupied identities
+
+---------------------------------------------------------
+UNIFIED GROUP
+---------------------------------------------------------
+
+en-rin
+
+persistent collective identity
+
+---------------------------------------------------------
+SWARM
+---------------------------------------------------------
+
+en-ve
+
+propagating identities
+
+---------------------------------------------------------
+BROKEN GROUP
+---------------------------------------------------------
+
+en-nai
+
+failed collective identity
+
+=========================================================
+9. TIME
+=========================================================
+
+Genesis does not naturally think in:
+
+     Past
+     Present
+     Future
+
+Genesis thinks in:
+
+---------------------------------------------------------
+
+Unresolved
+
+Resolving
+
+Resolved
+
+Persistent
+
+---------------------------------------------------------
+      Example:
+
+      English:
+
+        The storm came.
+
+      Genesis:
+
+        The storm resolved.
+
+      English:
+
+        The storm is coming.
+
+      Genesis:
+
+        The storm is propagating.
+
+      =========================================================
+      10. QUESTIONS
+      =========================================================
+
+      Question root:
+
+        do
+
+      Question su x:
+
+        ka?
+
+      ---------------------------------------------------------
+
+      do-en va rin ka?
+
+      Which identity persists?
+
+      ---------------------------------------------------------
+
+      do-sha va kor ka?
+
+      Which boundary collapsed?
+
+      ---------------------------------------------------------
+
+      do-rel va ar ka?
+
+      What relationship inherits?
+
+      ---------------------------------------------------------
+
+      do-nae va ve ka?
+
+      Which basin propagates?
+
+      =========================================================
+      11. NEGATION
+      =========================================================
+
+      Primary negation:
+
+        -nai
+
+      ---------------------------------------------------------
+ffi
+rin-nai
+
+does not persist
+
+---------------------------------------------------------
+
+tal-nai
+
+does not stabilize
+
+---------------------------------------------------------
+
+kor-nai
+
+failed collapse
+
+---------------------------------------------------------
+
+en-nai
+
+absent identity
+
+---------------------------------------------------------
+
+sera-nai
+
+broken continuity
+
+=========================================================
+12. POSSESSION
+=========================================================
+
+Genesis treats possession as inclusion.
+
+English:
+
+  Kira's wagon
+
+Genesis:
+
+  Kira-sha wagon
+
+Meaning:
+
+  wagon within Kira's boundary
+
+---------------------------------------------------------
+
+English:
+
+  Nyx is Kira's companion
+
+Genesis:
+
+  Nyx va Kira-sha rel-rin
+
+=========================================================
+13. LOCATION
+=========================================================
+
+Location uses boundaries.
+
+---------------------------------------------------------
+     wagon va tree-sha rel-rin
+
+     The wagon is beside the tree.
+
+     ---------------------------------------------------------
+
+     sword va wagon-sha da
+
+     The sword occupies the wagon.
+
+     ---------------------------------------------------------
+
+     Kira va village-sha da
+
+     Kira is in the village.
+
+     =========================================================
+     14. COMPOUND WORDS
+     =========================================================
+
+     Genesis compounds are structural.
+
+     ---------------------------------------------------------
+
+     gen + vel
+
+     Genesis Field
+
+     ---------------------------------------------------------
+
+     kai + sha
+
+     Con guration Boundary
+
+     Binding Circle
+
+     ---------------------------------------------------------
+
+     kor + en
+
+     Collapse Identity
+
+     ELDRIS
+
+     ---------------------------------------------------------
+
+     gen + vara
+
+     Genesis Storm
+
+     ---------------------------------------------------------
+
+     kai + ar + en + rin
+
+     Bound Companion
+
+     =========================================================
+     15. COMPRESSION RULES
+     =========================================================
+
+     Architect Speech:
+
+       Kai Tor En
+fi
+     Compressed:
+
+       Kaien
+
+     ---------------------------------------------------------
+
+     Architect Speech:
+
+       Gen Kor En
+
+     Compressed:
+
+       Genken
+
+     ---------------------------------------------------------
+
+     Architect Speech:
+
+       Rin Tal Ael
+
+     Compressed:
+
+       Rintel
+
+     ---------------------------------------------------------
+
+     Compression follows:
+
+       Repeated sounds merge.
+       Middle particles disappear.
+       Identity roots dominate.
+
+     =========================================================
+     16. BASIN INFLECTION
+     =========================================================
+
+     Basins in uence meaning.
+
+     Cipher:
+
+       142857
+       285714
+       428571
+       571428
+       714285
+       857142
+
+     Spoken roots:
+
+       ra
+            Red
+
+       o
+            Orange
+
+       ya
+            Yellow
+
+       gi
+            Green
+
+       bu
+         Blue
+fl
+  vi
+       Violet
+
+---------------------------------------------------------
+
+nae-ra
+
+Red Basin
+
+---------------------------------------------------------
+
+nae-gi
+
+Green Basin
+
+---------------------------------------------------------
+
+wagon nae-ra
+
+Red wagon
+
+=========================================================
+17. REGISTER
+=========================================================
+
+COMMON GENESIS
+
+Used by villagers.
+
+Simple.
+
+---------------------------------------------------------
+
+SCHOLAR GENESIS
+
+Used by researchers.
+
+Expanded.
+
+---------------------------------------------------------
+
+ARCHITECT GENESIS
+
+Uses Rosetta concepts directly.
+
+---------------------------------------------------------
+
+POETIC GENESIS
+
+Mythic form.
+
+Used in songs and inscriptions.
+
+=========================================================
+18. WRITING RULES
+=========================================================
+
+ARCHITECT SIGNS
+
+Equivalent to Kanji.
+
+Structural concepts.
+
+---------------------------------------------------------
+FLOW SCRIPT
+
+Equivalent to Hiragana.
+
+Grammar.
+
+Particles.
+
+---------------------------------------------------------
+
+BORROWED SCRIPT
+
+Equivalent to Katakana.
+
+Foreign names.
+
+Modern terms.
+
+=========================================================
+19. SAMPLE PARSING
+=========================================================
+
+English:
+
+  The wagon is red.
+
+Genesis:
+
+  wagon va nae-ra
+
+---------------------------------------------------------
+
+English:
+
+  The storm is coming.
+
+Genesis:
+
+  gen-vara va ve-ru
+
+---------------------------------------------------------
+
+English:
+
+  Kira has a sword.
+
+Genesis:
+
+  sword va Kira-sha da
+
+---------------------------------------------------------
+
+English:
+
+  Nyx is with Kira.
+
+Genesis:
+
+  Nyx va Kira-sha rel-rin
+
+---------------------------------------------------------
+
+English:
+       The ELDRIS formed.
+
+     Genesis:
+
+       gen-kor-en ta
+
+     ---------------------------------------------------------
+
+     English:
+
+       The binding failed.
+
+     Genesis:
+
+       kai-sha va kor-nai
+
+     =========================================================
+     20. GRAMMATICAL LAW
+     =========================================================
+
+     Before identity comes relationship.
+
+     Before relationship comes boundary.
+
+     Before boundary comes environment.
+
+     Therefore Genesis speakers naturally
+     describe reality through:
+
+       Boundaries
+       Occupancies
+       Relationships
+       Identities
+       Persistence
+
+     rather than through objects.
+
+     This is the de ning feature
+     of Genesis grammar.
+
+     =========================================================
+     END OF GENESIS LANGUAGE GRAMMAR v0.1
+     =========================================================
+fi
+

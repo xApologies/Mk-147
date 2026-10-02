@@ -1,0 +1,360 @@
+{
+  "checkpoint": "MK-147 Recovery Checkpoint v2 — 2026-10-02",
+  "repository": "https://github.com/xApologies/Mk-147",
+  "branch": "main",
+  "archive": "MK147_LIVE_MODEL_v2_2026-10-02.zip",
+  "archive_sha256": "2ceba95992af4c7e07ac748430d48c9b136ea30bdb2bb4fd7a908cc52f44fe02",
+  "supplied_files": 67,
+  "supplied_markdown_files": 22,
+  "original_source_files": 42,
+  "v2_manifest_entries": 65,
+  "archive_byte_mismatches": 0,
+  "v2_manifest_mismatches": 0,
+  "relative_links_verified": 150,
+  "heading_links_verified": 5,
+  "open_ledger_entries": 9,
+  "terminology_constitution_present": true,
+  "live_model_aethren_matches": 0,
+  "excluded_terms_review": "Reviewed all Markdown matches: exclusion ledgers and valid ordinary uses of gate/understanding only; no promotion as current titles or summon names.",
+  "canon_status_review": "Matches v2 authority and domain summaries; all nine OPEN ledger entries retained; Pedestal remains a candidate; explicit Ring locks distinguished from current canon.",
+  "historical_sources_unchanged": true,
+  "junk_files": 0,
+  "manifest_scope_note": "The supplied v2 manifest covers 65 files. Its own file and V2_AUDIT.json are the two additional archive members, both preserved and covered by this import inventory.",
+  "files": [
+    {
+      "path": "live-model/README.md",
+      "bytes": 391,
+      "sha256": "4e0da717114944e32d6cbd9c8fdfb1b089039aa2a3fdb73cece64b22aeb6c1b7"
+    },
+    {
+      "path": "live-model/04_CODEX_HANDOFF/CODEX_PROMPT.md",
+      "bytes": 1279,
+      "sha256": "81f5e9abdb3a8207ebc85f18565d907ac71d1711482935373703c2c29ebc13ed"
+    },
+    {
+      "path": "live-model/02_WORLD/V2_WORLD_CANON.md",
+      "bytes": 1981,
+      "sha256": "e8a65523b2f0676754c40507c143c8aa022a5bb32cf2f975c9489b305116d00a"
+    },
+    {
+      "path": "live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md",
+      "bytes": 1427,
+      "sha256": "1faeac297e4e27a9f4b0f0e3dab683b1b499d4aa7a290f573d58cc712e7f2d61"
+    },
+    {
+      "path": "live-model/02_DOMAINS/GENESIS_LANGUAGE.md",
+      "bytes": 225,
+      "sha256": "7acefa0663893e742284a5b86ff71b62f42ca6a3755b2677ac19e348ee049650"
+    },
+    {
+      "path": "live-model/02_DOMAINS/BLACKSTONE.md",
+      "bytes": 1241,
+      "sha256": "6572a9570199c3db0f01d1567b524bb40ce277cb64088d1295408243ba77f7d5"
+    },
+    {
+      "path": "live-model/02_DOMAINS/SYSTEMS.md",
+      "bytes": 1076,
+      "sha256": "d4feeae48bc502d421f84a4019212a0ad5c0e8059ec430d41294e163db391519"
+    },
+    {
+      "path": "live-model/02_DOMAINS/DIAMONDS_CURRENCY_EQUIPMENT.md",
+      "bytes": 1207,
+      "sha256": "2a47ff74df08a89bcba05084a80322654c5498b74fdf39fa5019dd1fa21b4726"
+    },
+    {
+      "path": "live-model/02_DOMAINS/AGRICULTURE.md",
+      "bytes": 529,
+      "sha256": "0d621e93c300457b0d5a832c6aac5af66b5eb6bb1ce63b0287b6263c0fc3d6a1"
+    },
+    {
+      "path": "live-model/02_DOMAINS/STARSCAPE.md",
+      "bytes": 545,
+      "sha256": "a3dea50537e9c470d5be5eb25f14e6834d5b7d8b1e852ccc8fecb8360fce2774"
+    },
+    {
+      "path": "live-model/06_LANGUAGE/V2_LANGUAGE_STATUS.md",
+      "bytes": 300,
+      "sha256": "6e69a437b7995919097357e0c20f01db67e282c61912182eff63a65a2e6d4c64"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(9).pdf",
+      "bytes": 92298,
+      "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18"
+    },
+    {
+      "path": "live-model/05_SOURCES/Scaling(1).png",
+      "bytes": 120384,
+      "sha256": "5ce50a70a76b1ccbc551ea6bdca8f4c8a1f7031fa36fc1a070ee68c7f2a76ac7"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(3).zip",
+      "bytes": 7387246,
+      "sha256": "a2128b47f8cc093a6b8fb71c54a2c5981cee51b2885513bccae37dc2465ec80b"
+    },
+    {
+      "path": "live-model/05_SOURCES/5 Chimera Domai and Magic System Overview.pdf",
+      "bytes": 50417,
+      "sha256": "7c94c60fb59c74304550b6124d448b8f3f10ddc48c96db233f71ab4dcc661651"
+    },
+    {
+      "path": "live-model/05_SOURCES/Orbital Model(1).pdf",
+      "bytes": 92053,
+      "sha256": "b0f6056c6f2804c29db96297235a272c1ac9942297454e4363f8e250e69f0b3f"
+    },
+    {
+      "path": "live-model/05_SOURCES/Untitled_Artwork(1).jpg",
+      "bytes": 4335392,
+      "sha256": "4c5e75f70c40eb1f936d1da212c3716c2ecdd0bdb4041ba9b52d03945f9588b8"
+    },
+    {
+      "path": "live-model/05_SOURCES/Dimensional Ring(1).pdf",
+      "bytes": 98946,
+      "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2"
+    },
+    {
+      "path": "live-model/05_SOURCES/Genesis(1).zip",
+      "bytes": 403570,
+      "sha256": "4b847d2048d485d6265c5c95ab7ea7ee3ec3966bb49aa02961e023dfb62f4e70"
+    },
+    {
+      "path": "live-model/05_SOURCES/Colored Chainmail Robes(1).png",
+      "bytes": 406050,
+      "sha256": "c657a2b15e515466224cd990872bfbf12c9e53649e69cae7253ebe69f604d166"
+    },
+    {
+      "path": "live-model/05_SOURCES/New Chat.jpeg(1).png",
+      "bytes": 90626,
+      "sha256": "86621b7cb82bfe48333e181d36ea59c9268561469851ebaec95078db63d6e913"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(8).pdf",
+      "bytes": 101814,
+      "sha256": "d9bcfacc10e5c75dc076b167f04ffa0cb7df640a03df6433b7b436a780d93ce8"
+    },
+    {
+      "path": "live-model/05_SOURCES/Social Engine(1).pdf",
+      "bytes": 166454,
+      "sha256": "b38589304ee97e0e0b08887872d35d4464e35121c17c642bce3772fcd8235c18"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(7).pdf",
+      "bytes": 93717,
+      "sha256": "177c73a00ca4d1bf7f468b3c896169ecc15ce5bce55e0d14415ec4407b47cad6"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER_1(2).pdf",
+      "bytes": 120774,
+      "sha256": "9266a0132c6d1753170f350817d3a1d21599a643d2b32e6feafe5e404fa4abb2"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(20261002-173044).pdf",
+      "bytes": 93053,
+      "sha256": "493d94dccfd296a8d426afa7257593411c144cca76dfe002e3505506595f1425"
+    },
+    {
+      "path": "live-model/05_SOURCES/#STYLE(1).pdf",
+      "bytes": 34783,
+      "sha256": "2173209f65b90ccf02ba18c7aef210e8dde346c1e6b3088fe089c254afaa8616"
+    },
+    {
+      "path": "live-model/05_SOURCES/Density Ladder(1).png",
+      "bytes": 92080,
+      "sha256": "677d094abf140f2550ae466b2f1fcae3514ec609cef89bff0e020cb42d76eaca"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER_schedule(1).pdf",
+      "bytes": 86079,
+      "sha256": "b9e06117fee78e237f122af56b2bf0356c78f5b3e9033406808c194d2bfc66ae"
+    },
+    {
+      "path": "live-model/05_SOURCES/Months(1).pdf",
+      "bytes": 9660,
+      "sha256": "2ba928b813d943dc545326cd76d6f9cd95f18a2e0ff27605318645c47ae6b9a7"
+    },
+    {
+      "path": "live-model/05_SOURCES/36 Agricultural Slices 2(1).pdf",
+      "bytes": 60246,
+      "sha256": "4cff8803841bafd0c03b6b129bf5ee020dcc620a0b7930f3d3f7437bec9c1d4d"
+    },
+    {
+      "path": "live-model/05_SOURCES/ARC 1-4(5).pdf",
+      "bytes": 92829,
+      "sha256": "bdfa05a247127a80e5c3b73b1d5ed10ed8d4342f95e153040650112d56ac7d05"
+    },
+    {
+      "path": "live-model/05_SOURCES/Annual Structure(1).pdf",
+      "bytes": 10911,
+      "sha256": "a0b50bc57031cabf943436dafd13c3b709ddb91f0e3afd67293fe7a6a28e1e30"
+    },
+    {
+      "path": "live-model/05_SOURCES/Culture(1).pdf",
+      "bytes": 47620,
+      "sha256": "ee53d70794868a63ad33df28ffc8430114b899c0eef0fb2f97c39b1a7702fac8"
+    },
+    {
+      "path": "live-model/05_SOURCES/Calendar - Kira(1).pdf",
+      "bytes": 79467,
+      "sha256": "ba8fbb2b9a346cacb7ccc0d08d83cc5169427cdce64273f417853236f5ca7f01"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(10).pdf",
+      "bytes": 96225,
+      "sha256": "4e5c987856e61c80f558887cea1bf9bcc898e888fc9d2daaa5729a9e35eaa67a"
+    },
+    {
+      "path": "live-model/05_SOURCES/Experience.png",
+      "bytes": 185941,
+      "sha256": "e7c6a04b79c5e73143aed8d888d4b3cf16c7b0ebd187fcd26afea2e38924e1b7"
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(20261002-172020).pdf",
+      "bytes": 129675,
+      "sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc"
+    },
+    {
+      "path": "live-model/05_SOURCES/Kings Tournament(1).png",
+      "bytes": 171292,
+      "sha256": "86135700ba3e822f87083ceab57903424af178c97d7de27180e899dbe8ba7ec9"
+    },
+    {
+      "path": "live-model/01_CANON/CULTURE.md",
+      "bytes": 734,
+      "sha256": "324bee25584dabf75f7c6e28ee55dc2211066b3d5b1a08fa66d706f849f16799"
+    },
+    {
+      "path": "live-model/01_CANON/STORY.md",
+      "bytes": 937,
+      "sha256": "bde867843f2f116baf902b2a4c629c7454c1d91a0262d645a3b7bfcc0821eabc"
+    },
+    {
+      "path": "live-model/08_CODEX_HANDOFF/CODEX_PROMPT_V2.md",
+      "bytes": 735,
+      "sha256": "5d111dfd057a48eb57c553f1fac08ec66b6ecedd105b5e6e53f8bb7893faa96c"
+    },
+    {
+      "path": "live-model/05_CULTURE/V2_CULTURE_CANON.md",
+      "bytes": 1192,
+      "sha256": "2a4d0591eb7e08d03940c1736dbec1743964ce94167f4c851fbdd4381cf308f7"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/CONSTITUTION.md",
+      "bytes": 636,
+      "sha256": "6ee2c55294d5ca70a4206dad3a1f0e6241566187d3cbccc352b4953e5a14b94f"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/V2_CANON_AUTHORITY.md",
+      "bytes": 688,
+      "sha256": "e7b6001f5162f8ab3d5a13f3151032ec5d6f9894db95a13dcbb60ce2fffb08cd"
+    },
+    {
+      "path": "live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md",
+      "bytes": 2053,
+      "sha256": "f3c7d3491e479dad193a4f9cdfacded1d09cdcf062421a316270bb2bb21ee1cf"
+    },
+    {
+      "path": "live-model/03_PROVENANCE/MANIFEST.json",
+      "bytes": 4760,
+      "sha256": "473b556aa78a9590a2652757cec330bade0acdf69808dd95adfe8f959ee3ba02"
+    },
+    {
+      "path": "live-model/03_PROVENANCE/OPEN_AND_SUPERSEDED.md",
+      "bytes": 392,
+      "sha256": "de42a83af4662fe6f8cd067db1125f780bdadae9c23463ed8be1c11cc250bf71"
+    },
+    {
+      "path": "live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md",
+      "bytes": 1045,
+      "sha256": "062a85a9df695f1296cec6d765721e059f8ae8c90144f1e8f8f7ee58914f5310"
+    },
+    {
+      "path": "live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md",
+      "bytes": 1431,
+      "sha256": "1903ecd7a33b7658526abeab049cbdc5baacc0d5d9caafbe55595e43108973c1"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/MANIFEST_V2.json",
+      "bytes": 10281,
+      "sha256": "2527e9612c7c01fe2bd35c33040335cbe918bbfa410d7b1bba986809d44c70ce"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/V2_OPEN_QUESTIONS.md",
+      "bytes": 423,
+      "sha256": "12e107326a0e12448571ffb74c8c8c4ef9867cf89309ea2e508d290b76606b6c"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/V2_AUDIT.json",
+      "bytes": 551,
+      "sha256": "179112fea5d733da5bca9beaf43bb6850058484a3be63b3dd62b86900e5eac2a"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/Phonology.pdf",
+      "bytes": 127679,
+      "sha256": "dca0205f0bbcf1fffc41b0f8723f6d7e79a64ddb03c6911125d16996d0047b10"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/Root Family.pdf",
+      "bytes": 120655,
+      "sha256": "5b8d0d82c9b8f5ef13169820f76b0783f4a6b4a284f43735d78b92909b96680c"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/Domains.pdf",
+      "bytes": 12041,
+      "sha256": "6f1dfc8a72f4996b660b43a08353eee4e6562f93692d0bc85764c826a0035bfd"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/Grammar.pdf",
+      "bytes": 145919,
+      "sha256": "4814e50bbaf5a16c757991c5307d26f47afdc06e8ff6f5de0cfc9637d69d9961"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/Rosetta.pdf",
+      "bytes": 28962,
+      "sha256": "a228ff2d41f3579840102d4c43b0bf7f16b28c52d8e6939a53e073093bcfef7e"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/Rules.pdf",
+      "bytes": 149572,
+      "sha256": "9bb3ca84f0cfacc989d63a852decbf1bc11cb8d10a114ba6187bd5b608df1fb2"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/Structure.pdf",
+      "bytes": 112105,
+      "sha256": "744d6b14045f345721b7a1eb29322f8f527604909905bed4ce04b595caee4b0b"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/txt/Domains.txt",
+      "bytes": 338,
+      "sha256": "aada8251017bcb0644058fe3f84fb31f309e530759bf5dbaf1cf66ef980b4587"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/txt/Grammar.txt",
+      "bytes": 19189,
+      "sha256": "1bf214f2413d6064c0eb9f80d4d294f2c3bb0819abe0c001718dac3c718f5026"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/txt/Rosetta.txt",
+      "bytes": 2760,
+      "sha256": "4ba60c6c50e1c3a92fe6f4a3c7acb00c3ffeed6f194098076eeb4ffbc17d0249"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/txt/Root Family.txt",
+      "bytes": 9417,
+      "sha256": "5399a03e19d0b535760dfc9669040ea2e09968095b8171d66264cd6500ba18cc"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/txt/Structure.txt",
+      "bytes": 9852,
+      "sha256": "620b8e958cbe901c6cd499caa41dd3e57aea8c7bad80834c9f71c26a9efaa130"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/txt/Phonology.txt",
+      "bytes": 11076,
+      "sha256": "2a497cc8191969033701c30521226726054a0ba2666c282681d64357b885b18f"
+    },
+    {
+      "path": "live-model/05_SOURCES/genesis_language/txt/Rules.txt",
+      "bytes": 16793,
+      "sha256": "19fef79d9297dc8eab38455cf70f7905b1cec089d74cb5c60b05c3bfa1c66cd4"
+    }
+  ]
+}

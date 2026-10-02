@@ -1,0 +1,1020 @@
+=========================================================
+GENESIS LANGUAGE RULESET v0.1
+SPOKEN + WRITTEN LANGUAGE STRUCTURE
+Built from:
+- MK43 Ultra Rosetta / Architect Script
+- Genesis Field topology
+- Japanese-style relational grammar
+- This / that / boundary logic
+=========================================================
+
+CORE DESIGN RULE
+=========================================================
+
+Genesis is NOT English translated word-for-word.
+
+Genesis is a relationship- rst language.
+
+English asks:
+
+  What is the object?
+
+Genesis asks:
+
+  Where is the boundary?
+  What occupies it?
+  What relationship persists?
+  What identity closes?
+
+=========================================================
+LANGUAGE LAYERS
+=========================================================
+
+1. ARCHITECT SCRIPT
+
+  The ancient wall notation.
+
+  .·     inherit
+  ··     propagate
+  .°.     stabilize
+  .·· .° redistribute
+  ··° ·° destabilize
+  ·°·     close
+  ■ .· ■ normalize
+
+2. ROSETTA MEANING
+
+  Modern scholarly interpretation of the wall script.
+
+3. SPOKEN GENESIS
+
+  Reconstructed spoken language.
+
+4. COMMON DESCENDANT SPEECH
+
+  Ordinary village language descended from Genesis fragments.
+
+=========================================================
+WRITING SYSTEM
+=========================================================
+
+Genesis uses three written layers, inspired by Japanese.
+
+1. ARCHITECT SIGNS
+     fi
+  Used for sacred / structural / mathematical concepts.
+  Equivalent to kanji.
+
+  Examples:
+    Identity
+    Boundary
+    Persistence
+    Topology
+    Genesis
+    Collapse
+    Basin
+
+2. FLOW SCRIPT
+
+  Used for grammar particles, endings, small words.
+  Equivalent to hiragana.
+
+  Examples:
+    relation markers
+    tense/aspect markers
+    question markers
+    demonstratives
+
+3. BORROWED SCRIPT
+
+  Used for foreign names, creature names, modern terms.
+  Equivalent to katakana.
+
+  Examples:
+    Kira
+    Nyx
+    city names
+    trade names
+
+=========================================================
+BASIC WORD ORDER
+=========================================================
+
+Genesis follows a Japanese-like structure:
+
+  TOPIC / CONTEXT
+  RELATION
+  IDENTITY / EVENT
+  VERB / CLOSURE
+
+Default order:
+
+  Context - Relation - Identity - Closure
+
+Closest English approximation:
+
+  Subject - Object - Verb
+
+But Genesis is better understood as:
+
+  Boundary - Relationship - Resolution
+
+Examples:
+
+  English:
+    The wagon is red.
+
+  Genesis logic:
+    This-boundary wagon red-expression closes.
+  English:
+    The storm is coming.
+
+  Genesis logic:
+    Storm-topic basin-instability propagates.
+
+=========================================================
+NO SIMPLE "IS"
+=========================================================
+
+Genesis does not naturally use "is" the way English does.
+
+English:
+
+  The wagon is red.
+
+Genesis:
+
+  The wagon expresses red.
+  The wagon closes in red.
+  The wagon inherits red-basin expression.
+
+English:
+
+  The stool is a stool.
+
+Genesis:
+
+  Identity inherits identity.
+  The thing remains itself.
+
+=========================================================
+DEMONSTRATIVE SYSTEM
+=========================================================
+
+Genesis inherits Japanese-style this / that / over-there logic,
+but converts it into boundary logic.
+
+Root demonstratives:
+
+  KA
+    this / within my boundary / near speaker
+
+  SA
+    that / within your boundary / near listener
+
+  A
+      over there / outside both boundaries
+
+  DO
+    unknown / unresolved / question-boundary
+
+Core pattern:
+
+  KA = this near me
+  SA = that near you
+  A = that outside us
+  DO = which / what / unresolved
+
+Examples:
+
+  ka-en
+    this identity
+     this thing here
+
+  sa-en
+    that identity near you
+
+  a-en
+    that identity over there
+
+  do-en?
+    what identity?
+    what is that?
+
+=========================================================
+DEMONSTRATIVE DERIVATIONS
+=========================================================
+
+Thing / identity:
+
+  ka-en      this thing
+  sa-en      that thing near you
+  a-en      that thing over there
+  do-en      which thing?
+
+Place / boundary:
+
+  ka-sha this place / this boundary
+  sa-sha that place near you
+  a-sha that place over there
+  do-sha which place?
+
+Direction / propagation:
+
+  ka-ve      toward here
+  sa-ve      toward there near you
+  a-ve      toward over there
+  do-ve      toward where?
+
+State / condition:
+
+  ka-rin this current persistence
+  sa-rin that current state near you
+  a-rin that distant state
+  do-rin what condition?
+
+=========================================================
+CORE PARTICLES
+=========================================================
+
+Genesis particles mark relationships, not just grammar.
+
+Topic particle:
+
+  wa / va
+
+Meaning:
+ As for...
+ Regarding this boundary...
+
+Example:
+
+  ka-en va
+    as for this thing
+
+Identity particle:
+  en
+
+Meaning:
+ identity / thingness / self-state
+
+Boundary particle:
+
+  sha
+
+Meaning:
+ boundary / edge / separation / place
+
+Relationship particle:
+
+  rel
+
+Meaning:
+ relationship / adjacency / connection
+
+Persistence particle:
+
+  rin
+
+Meaning:
+ persists / remains / continues
+
+Closure particle:
+
+  tor
+
+Meaning:
+ closes / resolves / completes
+
+Collapse particle:
+
+  kor
+
+Meaning:
+ collapses / realizes / becomes through collapse
+
+Propagation particle:
+
+  ve
+
+Meaning:
+ moves / advances / propagates
+
+Inheritance particle:
+
+  ar
+
+Meaning:
+ inherits / carries forward / receives continuity
+
+Stabilization particle:
+
+  tal
+
+Meaning:
+ stabilizes / holds / locks
+
+Question particle:
+       ka?
+
+     Placed at sentence end.
+
+     Example:
+
+       do-en va rin ka?
+         Which thing persists?
+         What remains?
+
+     =========================================================
+     CORE ROOTS
+     =========================================================
+
+     Environment
+       era
+
+     Boundary
+       sha
+
+     Occupancy
+       da
+
+     Relationship
+       rel
+
+     Identity
+       en
+
+     Persistence
+       rin
+
+     Topology
+       ael
+
+     Genesis
+       gen
+
+     Field
+        vel
+
+     Collapse
+       kor
+
+     Basin
+       nae
+
+     Con guration
+       kai
+
+     Storm
+       vara
+
+     Architect
+       arka
+
+     Continuity
+       sera
+
+     Closure
+       tor
+
+     Inheritance
+        ar
+fi
+Propagation
+  ve
+
+Stabilization
+  tal
+
+Normalization
+  nor
+
+=========================================================
+BASIN SYSTEM
+=========================================================
+
+There are six basins.
+
+They are not separate colors.
+They are six rotations of one structure.
+
+Cipher:
+
+  142857
+  285714
+  428571
+  571428
+  714285
+  857142
+
+Basins:
+
+  Red    = 1/7 = 0.142857...
+  Orange = 2/7 = 0.285714...
+  Yellow = 3/7 = 0.428571...
+  Green = 4/7 = 0.571428...
+  Blue = 5/7 = 0.714285...
+  Violet = 6/7 = 0.857142...
+
+Spoken basin roots:
+
+  Red    = ra
+  Orange = o
+  Yellow = ya
+  Green = gi
+  Blue = bu
+  Violet = vi
+
+Basin expression:
+
+  nae-ra
+    red basin
+
+  nae-gi
+    green basin
+
+  nae-vi
+    violet basin
+
+=========================================================
+COLOR / BASIN STATEMENTS
+=========================================================
+
+Genesis does not say:
+
+  The wagon is red.
+It says:
+
+  The wagon expresses red-basin identity.
+
+Short spoken form:
+
+  wagon va nae-ra tor.
+
+Literal:
+   wagon-topic red-basin closes.
+
+Natural English:
+  The wagon is red.
+
+More Genesis-native:
+
+  ka-en va nae-ra rin.
+
+Literal:
+   this identity red-basin persists.
+
+Meaning:
+ This thing remains in red expression.
+
+=========================================================
+NOUNS
+=========================================================
+
+Nouns are usually identity roots.
+
+A noun may be marked with:
+
+  -en identity / thing
+  -sha place / boundary
+  -rin persistent form
+  -ael topology / structure
+
+Example:
+
+  wagon-en
+    wagon as an identity
+
+  wagon-sha
+    wagon-space / wagon boundary
+
+  wagon-rin
+    wagon as persistent object
+
+  wagon-ael
+    wagon structure / wagon topology
+
+In casual speech, the su x may be dropped.
+
+=========================================================
+ADJECTIVES
+=========================================================
+
+Genesis does not use adjectives like English.
+
+Instead, qualities are expressions or inherited states.
+
+English:
+    ffi
+            red wagon
+
+          Genesis:
+
+            wagon nae-ra
+
+          Literal:
+             wagon red-basin
+
+          English:
+
+            strong wall
+
+          Genesis:
+
+            wall tal-rin
+
+          Literal:
+             wall stabilized-persistence
+
+          English:
+
+            old tree
+
+          Genesis:
+
+            tree rin-deep
+
+          Literal:
+             tree deep persistence
+
+          =========================================================
+          VERBS
+          =========================================================
+
+          Verbs are process roots.
+
+          Core verbs:
+
+            ar       inherit
+            ve        propagate
+            tal      stabilize
+            kor       collapse
+            tor      close
+            rin      persist
+            nor       normalize
+            rel      relate
+            da        occupy
+
+          Verb placement:
+
+            Usually near the end of the sentence.
+
+          Example:
+
+            gen-vel va kor.
+
+          Literal:
+             Genesis- eld topic collapse.
+
+          English:
+            The Genesis eld collapses.
+
+          =========================================================
+fi
+     fi
+TENSE / ASPECT
+=========================================================
+
+Genesis cares less about past/present/future
+and more about stability state.
+
+Aspect markers:
+
+  -ta
+     completed / closed
+
+  -ru
+     ongoing / propagating
+
+  -ma
+    potential / not yet closed
+
+  -nai
+    negation / absence / failure
+
+Examples:
+
+  kor-ta
+    collapsed / has resolved
+
+  kor-ru
+    collapsing / currently resolving
+
+  kor-ma
+    may collapse / unresolved
+
+  kor-nai
+    did not collapse / failed to resolve
+
+=========================================================
+QUESTIONS
+=========================================================
+
+Questions use DO roots and nal KA.
+
+Examples:
+
+  do-en va rin ka?
+    Which identity persists?
+
+  do-sha va kor ka?
+    Which boundary collapsed?
+
+  do-nae va ve ka?
+    Which basin is propagating?
+
+  do-rel va ar ka?
+    What relationship inherits?
+
+=========================================================
+NEGATION
+=========================================================
+
+Negation uses NAI.
+
+Examples:
+
+  rin-nai
+     does not persist
+        fi
+  tal-nai
+     does not stabilize
+
+  kor-nai
+    does not collapse / fails to resolve
+
+  en-nai
+    no identity / identity absent
+
+=========================================================
+POSSESSION
+=========================================================
+
+Genesis does not treat possession as ownership rst.
+
+It treats possession as boundary inclusion.
+
+English:
+
+  Kira's wagon.
+
+Genesis:
+
+  Kira-sha wagon.
+
+Literal:
+   wagon inside Kira's boundary.
+
+English:
+  Nyx is Kira's companion.
+
+Genesis:
+  Nyx va Kira-sha rel-rin.
+
+Literal:
+   Nyx topic Kira-boundary relationship-persistence.
+
+Meaning:
+ Nyx persists in relation to Kira.
+
+=========================================================
+LOCATION
+=========================================================
+
+Location uses SHA.
+
+English:
+
+  The wagon is beside the tree.
+
+Genesis:
+
+  wagon va tree-sha rel-rin.
+
+Literal:
+   wagon topic tree-boundary relationship-persists.
+
+Meaning:
+ The wagon is beside the tree.
+
+English:
+
+  The sword is in the wagon.
+                               fi
+          Genesis:
+
+            sword va wagon-sha da.
+
+          Literal:
+             sword topic wagon-boundary occupies.
+
+          Meaning:
+           The sword is inside the wagon.
+
+          =========================================================
+          BINDING CIRCLE GRAMMAR
+          =========================================================
+
+          Binding circle:
+
+            kai-sha
+
+          Con guration boundary:
+
+            kai-sha
+
+          Binding event:
+
+            kai-sha va kor-tor-en.
+
+          Literal:
+             con guration-boundary topic collapse-close-identity.
+
+          Meaning:
+           The binding circle resolved into identity.
+
+          Summon:
+
+            kor-en
+
+          Literal:
+             collapse identity
+
+          Bound companion:
+
+            kai-ar-en-rin
+
+          Literal:
+             con guration-inherited-identity-persistence
+
+          =========================================================
+          GENESIS STORM GRAMMAR
+          =========================================================
+
+          Genesis Storm:
+
+            gen-vara
+
+          Genesis Field:
+
+            gen-vel
+
+          Storm approaching:
+
+            gen-vara va ve-ru.
+
+          Literal:
+fi
+     fi
+     fi
+     Genesis-storm topic propagating.
+
+Storm collapse:
+
+     gen-vara va kor-ru.
+
+Literal:
+   Genesis-storm topic collapsing.
+
+Monster formation:
+
+     gen-kor-en ta.
+
+Literal:
+   Genesis-collapse-identity completed.
+
+Meaning:
+ An ELDRIS formed.
+
+=========================================================
+ELDRIS GRAMMAR
+=========================================================
+
+ELDRIS are not "monsters" in Genesis grammar.
+
+They are collapse-identities.
+
+ELDRIS:
+
+     gen-kor-en
+
+Literal:
+   Genesis collapse identity
+
+Red ELDRIS:
+
+     gen-kor-en nae-ra
+
+Literal:
+   Genesis-collapse-identity red-basin
+
+Green ELDRIS:
+
+     gen-kor-en nae-gi
+
+Literal:
+   Genesis-collapse-identity green-basin
+
+A green ELDRIS is coming:
+
+     gen-kor-en nae-gi va ve-ru.
+
+Literal:
+   green Genesis-collapse-identity topic propagating.
+
+Meaning:
+ A green ELDRIS is coming.
+
+=========================================================
+COMMON SAYINGS
+=========================================================
+
+1.
+Genesis:
+
+     En ar en.
+
+Literal:
+   Identity inherits identity.
+
+Meaning:
+ Remain yourself.
+
+Use:
+  Said as comfort, warning, or oath.
+
+---------------------------------------------------------
+
+2.
+
+Genesis:
+
+     Rin tal ael.
+
+Literal:
+   Persistence stabilizes topology.
+
+Meaning:
+ Endurance creates structure.
+
+Use:
+  Said by builders, soldiers, teachers.
+
+---------------------------------------------------------
+
+3.
+
+Genesis:
+
+     Gen kor en.
+
+Literal:
+   Genesis collapses into identity.
+
+Meaning:
+ All things become themselves.
+
+Use:
+  Religious / philosophical saying.
+
+---------------------------------------------------------
+
+4.
+
+Genesis:
+
+     Sha da rel.
+
+Literal:
+   Boundary occupancy relationship.
+
+Meaning:
+ Connection begins at separation.
+
+Use:
+  Architect saying.
+---------------------------------------------------------
+
+5.
+
+Genesis:
+
+     Vel ve tor.
+
+Literal:
+   Field propagates closure.
+
+Meaning:
+ Every motion seeks resolution.
+
+Use:
+  Scholar saying.
+
+=========================================================
+THE WAGON IS RED
+=========================================================
+
+Casual Genesis:
+
+     wagon va nae-ra.
+
+Literal:
+   wagon topic red-basin.
+
+Meaning:
+ The wagon is red.
+
+Formal Genesis:
+
+     wagon-en va nae-ra rin.
+
+Literal:
+   wagon-identity topic red-basin persists.
+
+Meaning:
+ The wagon has red expression.
+
+Architect Genesis:
+
+     ka-en va nae-ra tor.
+
+Literal:
+   this identity topic red-basin closes.
+
+Meaning:
+ This thing resolves as red.
+
+=========================================================
+THE STOOL IS A STOOL
+=========================================================
+
+Casual Genesis:
+
+     stool va stool-rin.
+
+Literal:
+   stool topic stool-persistence.
+
+Meaning:
+ The stool remains a stool.
+Formal Genesis:
+
+     stool-en va ar-en-rin.
+
+Literal:
+   stool-identity topic inherited-identity-persistence.
+
+Meaning:
+ The stool remains itself.
+
+Architect Genesis:
+
+     En ar en.
+
+Literal:
+   identity inherits identity.
+
+Meaning:
+ The thing is itself.
+
+=========================================================
+STYLE RULES
+=========================================================
+
+1. Do not translate English word-for-word.
+
+2. Always ask:
+   What is the boundary?
+   What is the relationship?
+   What identity persists?
+
+3. Use "is" only in English translation.
+  Genesis prefers:
+   persists
+   closes
+   inherits
+   stabilizes
+   occupies
+   expresses
+
+4. Color is basin expression.
+
+5. Ownership is boundary inclusion.
+
+6. Location is boundary relationship.
+
+7. Monsters are collapse-identities.
+
+8. Summons are con guration-collapse-identities.
+
+9. Genesis Storms are eld-collapse events.
+
+10. Spoken Genesis should feel simple on the surface
+  but structurally deep underneath.
+
+=========================================================
+END GENESIS LANGUAGE RULESET v0.1
+=========================================================
+fi
+     fi
+

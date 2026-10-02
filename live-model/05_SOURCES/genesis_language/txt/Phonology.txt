@@ -1,0 +1,772 @@
+     =========================================================
+     GENESIS PHONOLOGY MASTER CANON v0.1
+     MK147 + MK43 ULTRA LANGUAGE ARCHIVE
+     =========================================================
+
+     STATUS
+     =========================================================
+
+     This document de nes:
+
+       Sound
+       Pronunciation
+       Phonology
+       Enunciation
+       Word Construction
+
+     This document exists BEFORE the Lexicon.
+
+     The Lexicon cannot be built until the sounds
+     of Genesis are locked.
+
+     =========================================================
+     CORE DESIGN PHILOSOPHY
+     =========================================================
+
+     Genesis is not English.
+
+     Genesis is not Japanese.
+
+     Genesis borrows structural concepts from Japanese
+     while remaining entirely its own language.
+
+     Genesis is intended to sound:
+
+       Ancient
+       Flowing
+       Architectural
+       Measured
+       Sacred
+
+     Genesis should NOT sound:
+
+       Harsh
+       Military
+       Aggressive
+       Orc-like
+       Germanic
+
+     Good Genesis sounds:
+
+       Aena
+       Nae
+       Vaele
+       Aera
+       Rin
+       Sera
+       Tal
+       Tor
+       Vel
+
+     Bad Genesis sounds:
+
+       Kragg
+       Blorg
+fi
+    Thrak
+    Skullcrusher
+
+Wrong universe.
+
+=========================================================
+FOUNDATIONAL RULE
+=========================================================
+
+Genesis words are built from sounds.
+
+NOT letters.
+
+Letters merely record sounds.
+
+Meaning emerges from sound groups.
+
+Not individual characters.
+
+=========================================================
+CANONICAL VOWELS
+=========================================================
+
+A
+E
+I
+O
+U
+
+These are the foundational vowels.
+
+=========================================================
+SACRED VOWELS
+=========================================================
+
+AE
+AI
+
+These are NOT combinations.
+
+These are independent sounds.
+
+They function as sacred phonetic units.
+
+=========================================================
+AE
+=========================================================
+
+Pronunciation:
+
+    AY
+
+Examples:
+
+    AENA
+      AY-na
+
+    AERA
+      AY-ra
+
+    VAELE
+      VAY-le
+
+Architect Semantic Cluster:
+  Authority
+  Inheritance
+  External Continuity
+  Above Boundary
+  Active State
+  Directed Ownership
+
+AE is considered a dominant continuity vowel.
+
+=========================================================
+AI
+=========================================================
+
+Pronunciation:
+
+  EYE
+
+Examples:
+
+  AAINA
+    EYE-na
+
+  AIRA
+    EYE-ra
+
+Architect Semantic Cluster:
+
+  Reception
+  Internal Continuity
+  Containment
+  Below Boundary
+  Passive State
+  Received Authority
+
+AI is considered a receptive continuity vowel.
+
+=========================================================
+CONSONANTS
+=========================================================
+
+The Genesis consonant inventory is:
+
+  V
+  L
+  N
+  M
+  R
+  T
+  S
+  K
+  D
+  H
+
+=========================================================
+REMOVED CONSONANTS
+=========================================================
+
+The following are NOT currently canonical:
+
+  G
+  B
+  P
+  Y
+  J
+  F
+  W
+  X
+  Q
+  Z
+  C
+
+These may be added later through
+historical language drift.
+
+They do not exist in Classical Genesis.
+
+=========================================================
+STANDALONE CONSONANTS
+=========================================================
+
+Consonants may exist independently.
+
+Examples:
+
+  N
+  L
+  R
+  M
+
+This follows similar behavior to Japanese N.
+
+These sounds may function as:
+
+  particles
+  contractions
+  grammatical markers
+  compressed forms
+
+=========================================================
+LEGAL SOUND TABLE
+=========================================================
+
+Each consonant combines with:
+
+  A
+  E
+  I
+  O
+  U
+  AE
+  AI
+
+---------------------------------------------------------
+V SERIES
+---------------------------------------------------------
+
+V
+VA
+VE
+VI
+VO
+VU
+VAE
+VAI
+
+---------------------------------------------------------
+L SERIES
+---------------------------------------------------------
+
+L
+LA
+LE
+LI
+LO
+LU
+LAE
+LAI
+
+---------------------------------------------------------
+N SERIES
+---------------------------------------------------------
+
+N
+NA
+NE
+NI
+NO
+NU
+NAE
+NAI
+
+---------------------------------------------------------
+M SERIES
+---------------------------------------------------------
+
+M
+MA
+ME
+MI
+MO
+MU
+MAE
+MAI
+
+---------------------------------------------------------
+R SERIES
+---------------------------------------------------------
+
+R
+RA
+RE
+RI
+RO
+RU
+RAE
+RAI
+
+---------------------------------------------------------
+T SERIES
+---------------------------------------------------------
+
+T
+TA
+TE
+TI
+TO
+TU
+TAE
+TAI
+
+---------------------------------------------------------
+S SERIES
+---------------------------------------------------------
+
+S
+SA
+SE
+SI
+SO
+SU
+SAE
+SAI
+
+---------------------------------------------------------
+K SERIES
+---------------------------------------------------------
+
+K
+KA
+KE
+KI
+KO
+KU
+KAE
+KAI
+
+---------------------------------------------------------
+D SERIES
+---------------------------------------------------------
+
+D
+DA
+DE
+DI
+DO
+DU
+DAE
+DAI
+
+---------------------------------------------------------
+H SERIES
+---------------------------------------------------------
+
+H
+HA
+HE
+HI
+HO
+HU
+HAE
+HAI
+
+=========================================================
+SOUND CLUSTER RULE
+=========================================================
+
+Genesis is parsed through sound clusters.
+
+NOT individual letters.
+
+Examples:
+
+---------------------------------------------------------
+
+AENA
+Correct Parsing:
+
+  AE + NA
+
+Pronunciation:
+
+  AY-na
+
+Modern Meaning:
+
+  Energy
+
+---------------------------------------------------------
+
+AAINA
+
+Correct Parsing:
+
+  AI + NA
+
+Pronunciation:
+
+  EYE-na
+
+Potential Semantic Meaning:
+
+  Stored Energy
+  Received Energy
+  Internal Energy
+
+---------------------------------------------------------
+
+AERA
+
+Correct Parsing:
+
+  AE + RA
+
+Pronunciation:
+
+  AY-ra
+
+---------------------------------------------------------
+
+VAELE
+
+Correct Parsing:
+
+  VAE + LE
+
+Pronunciation:
+
+  VAY-le
+
+---------------------------------------------------------
+
+VAELLE
+
+Correct Parsing:
+
+  VAE + LLE
+
+Pronunciation:
+     VAY-leh
+
+or
+
+     VAY-lay
+
+depending on dialect.
+
+=========================================================
+DOUBLE CONSONANTS
+=========================================================
+
+Double consonants indicate:
+
+     emphasis
+     elongation
+     continuity thickening
+     formal pronunciation
+
+Example:
+
+     VAELE
+
+versus
+
+     VAELLE
+
+The second carries greater weight,
+greater continuity,
+or greater formal emphasis.
+
+=========================================================
+PRONUNCIATION VARIANTS
+=========================================================
+
+Some words possess:
+
+     Formal Reading
+     Common Reading
+
+Example:
+
+---------------------------------------------------------
+
+NAE
+
+Formal:
+
+     na-ay
+
+Architect Reading
+
+Common:
+
+     nay
+
+Village Reading
+
+Both are correct.
+
+Meaning emerges through context.
+
+---------------------------------------------------------
+This allows natural linguistic drift
+while preserving ancient forms.
+
+=========================================================
+ARCHITECTURAL SEMANTIC PHONOLOGY
+=========================================================
+
+Certain sounds carry meaning.
+
+---------------------------------------------------------
+
+AE
+
+Authority
+Inheritance
+External Continuity
+Active State
+
+---------------------------------------------------------
+
+AI
+
+Reception
+Containment
+Internal Continuity
+Passive State
+
+---------------------------------------------------------
+
+RIN
+
+Persistence
+Duration
+Continuity
+
+---------------------------------------------------------
+
+KOR
+
+Collapse
+Realization
+Resolution
+
+---------------------------------------------------------
+
+VEL
+
+Field
+Environment
+Propagation
+
+---------------------------------------------------------
+
+SHA
+
+Boundary
+Containment
+Location
+
+---------------------------------------------------------
+
+EN
+     Identity
+     Thingness
+     Self-state
+
+     ---------------------------------------------------------
+
+     NA
+
+     Expression
+     Manifestation
+     Field-State
+
+     =========================================================
+     WORD GENERATION RULE
+     =========================================================
+
+     Genesis words are NOT invented.
+
+     Genesis words are derived.
+
+     Process:
+
+       Meaning
+        ↓
+       Concept
+         ↓
+       Sound Cluster
+         ↓
+       Word
+
+     Example:
+
+     ---------------------------------------------------------
+
+     Friend
+
+     De nition:
+
+       Persistent Relationship
+
+     Potential Formation:
+
+       REL + RIN
+
+     Relrin
+
+     ---------------------------------------------------------
+
+     Gate
+
+     De nition:
+
+       Controlled Boundary
+
+     Potential Formation:
+
+       SHA + TOR
+
+     Shator
+
+     ---------------------------------------------------------
+
+     Road
+fi
+fi
+     De nition:
+
+       Persistent Propagation Path
+
+     Potential Formation:
+
+       VE + RIN
+
+     Verin
+
+     =========================================================
+     COMPRESSION RULE
+     =========================================================
+
+     Architect Language:
+
+       Kai Tor En
+
+     Compression:
+
+       Kaien
+
+     ---------------------------------------------------------
+
+     Gen Kor En
+
+     Compression:
+
+       Genken
+
+     ---------------------------------------------------------
+
+     Rin Tal Ael
+
+     Compression:
+
+       Rintel
+
+     ---------------------------------------------------------
+
+     Compression follows:
+
+       Repeated sounds merge.
+       Middle particles disappear.
+       Identity roots dominate.
+       Sacred vowels remain intact.
+
+     =========================================================
+     PHONOLOGICAL LAW
+     =========================================================
+
+     Genesis speakers hear meaning
+     through sound structure.
+
+     A native Genesis speaker does not hear:
+
+       letters
+
+     A native Genesis speaker hears:
+
+       continuity
+       inheritance
+       boundary
+fi
+   persistence
+   collapse
+   identity
+
+encoded into sound.
+
+Therefore:
+
+   AENA
+
+is not:
+
+   A+E+N+A
+
+It is:
+
+   AE + NA
+
+A sound structure.
+
+A meaning structure.
+
+A continuity structure.
+
+=========================================================
+CANONICAL LOCKS
+=========================================================
+
+LOCKED:
+
+   A
+   E
+   I
+   O
+   U
+
+   AE
+   AI
+
+   V
+   L
+   N
+   M
+   R
+   T
+   S
+   K
+   D
+   H
+
+LOCKED:
+
+   Sound clusters carry meaning.
+
+LOCKED:
+
+   Genesis words are generated,
+   not invented.
+
+LOCKED:
+
+   Formal and common pronunciations
+   may coexist.
+LOCKED:
+
+ AE and AI are sacred phonetic units.
+
+=========================================================
+END OF GENESIS PHONOLOGY MASTER CANON v0.1
+=========================================================
+

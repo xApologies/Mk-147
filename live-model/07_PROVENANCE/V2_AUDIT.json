@@ -1,0 +1,17 @@
+{
+  "required": {
+    "README.md": true,
+    "00_GOVERNANCE/V2_CANON_AUTHORITY.md": true,
+    "01_STORY/V2_EXHAUSTIVE_STORY_STATE.md": true,
+    "02_WORLD/V2_WORLD_CANON.md": true,
+    "03_BLACKSTONE/V2_BLACKSTONE_CANON.md": true,
+    "04_SYSTEMS/V2_SYSTEMS_CANON.md": true,
+    "05_CULTURE/V2_CULTURE_CANON.md": true,
+    "06_LANGUAGE/V2_LANGUAGE_STATUS.md": true,
+    "07_PROVENANCE/V2_OPEN_QUESTIONS.md": true,
+    "08_CODEX_HANDOFF/CODEX_PROMPT_V2.md": true,
+    "07_PROVENANCE/MANIFEST_V2.json": true
+  },
+  "all_pass": true,
+  "file_count": 65
+}

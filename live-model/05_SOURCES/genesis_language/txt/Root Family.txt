@@ -1,0 +1,713 @@
+=========================================================
+GENESIS ROOT FAMILIES MASTER CANON v0.1
+MK147 + MK43 ULTRA LANGUAGE ARCHIVE
+=========================================================
+
+STATUS
+=========================================================
+
+This document sits between:
+
+  Grammar
+    ↓
+  Lexicon
+
+The Lexicon is not built from individual words.
+
+The Lexicon is built from Root Families.
+
+Words inherit from roots.
+
+Roots inherit from concepts.
+
+Concepts inherit from Rosetta.
+
+=========================================================
+ROOT FAMILY PHILOSOPHY
+=========================================================
+
+English:
+
+  Word
+   ↓
+  Meaning
+
+Genesis:
+
+  Meaning
+   ↓
+  Root
+    ↓
+  Family
+    ↓
+  Word
+
+Genesis words are generated.
+
+Not invented.
+
+=========================================================
+THE SACRED FAMILIES
+=========================================================
+
+The following families are considered
+the primary Genesis roots.
+
+---------------------------------------------------------
+AE FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  AY
+Core Meaning:
+
+  Authority
+  Inheritance
+  Active Continuity
+  Above Boundary
+  Directed Ownership
+  Projection
+
+Examples:
+
+  AENA
+    Energy
+
+  AERA
+    Authority Structure
+
+  VAELE
+    Sacred Continuity Name
+
+Potential Descendants:
+
+  AERIN
+    Enduring Authority
+
+  AETOR
+    Closed Authority
+
+  AESHA
+    Governing Boundary
+
+Architect Interpretation:
+
+  The world acting upon itself.
+
+---------------------------------------------------------
+AI FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  EYE
+
+Core Meaning:
+
+  Reception
+  Containment
+  Internal Continuity
+  Below Boundary
+  Passive State
+  Dependency
+
+Examples:
+
+  AAINA
+    Stored Energy
+
+Potential Descendants:
+
+  AIRIN
+    Enduring Reception
+
+  AISHA
+     Contained Boundary
+
+  AITOR
+    Closed Containment
+
+Architect Interpretation:
+
+  The world receiving itself.
+
+---------------------------------------------------------
+EN FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  EN
+
+Core Meaning:
+
+  Identity
+  Self-State
+  Thingness
+  Realized Existence
+
+Examples:
+
+  EN
+    Identity
+
+  ENARA
+    Person
+
+  KOREN
+    Collapse Identity
+
+Potential Descendants:
+
+  ENRIN
+    Persistent Self
+
+  ENSHA
+    Personal Domain
+
+  ENREL
+    Social Identity
+
+Architect Interpretation:
+
+  That which is.
+
+---------------------------------------------------------
+RIN FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  RIN
+
+Core Meaning:
+
+  Persistence
+  Duration
+  Continuity
+  Stability Through Time
+Examples:
+
+  RIN
+    Persistence
+
+  RELRIN
+    Friend
+
+  SHARIN
+    Home
+
+  VERIN
+    Road
+
+  TALRIN
+    Strength
+
+Potential Descendants:
+
+  ENRIN
+    Self
+
+  DARIN
+    Village
+
+  AELRIN
+    Mountain
+
+Architect Interpretation:
+
+  That which remains.
+
+---------------------------------------------------------
+KOR FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  KOR
+
+Core Meaning:
+
+  Collapse
+  Realization
+  Resolution
+  Identity Formation
+
+Examples:
+
+  KOR
+    Collapse
+
+  KORTA
+    Resolved
+
+  KOREN
+    Identity Formation
+
+  GENKOR
+    Genesis Collapse
+
+Potential Descendants:
+  KORMA
+    Potential Collapse
+
+  KORNAI
+    Failed Collapse
+
+  KORTOR
+    Complete Resolution
+
+Architect Interpretation:
+
+  That which becomes.
+
+---------------------------------------------------------
+VEL FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  VEL
+
+Core Meaning:
+
+  Field
+  Environment
+  Propagation Medium
+  Spatial Continuity
+
+Examples:
+
+  VEL
+    Field
+
+  GENVEL
+    Genesis Field
+
+Potential Descendants:
+
+  VELRIN
+    Stable Field
+
+  VELVE
+    Field Propagation
+
+  VELSHA
+    Field Boundary
+
+Architect Interpretation:
+
+  That within which things occur.
+
+---------------------------------------------------------
+SHA FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  SHA
+
+Core Meaning:
+
+  Boundary
+  Containment
+  Location
+  Separation
+
+Examples:
+
+  SHA
+    Boundary
+
+  SHATOR
+    Gate
+
+  SHARIN
+    Home
+
+Potential Descendants:
+
+  ENSHA
+    Personal Boundary
+
+  NAESHA
+    Basin Boundary
+
+  DAESHA
+    Occupied Region
+
+Architect Interpretation:
+
+  Separation creates relationship.
+
+---------------------------------------------------------
+REL FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  REL
+
+Core Meaning:
+
+  Relationship
+  Connection
+  Adjacency
+  Social Continuity
+
+Examples:
+
+  REL
+    Relationship
+
+  RELRIN
+    Friend
+
+  RELNAI
+    Enemy
+
+Potential Descendants:
+
+  ENREL
+    Identity Relationship
+
+  RELTOR
+    Resolved Relationship
+
+  RELVE
+    Expanding Relationship
+     Architect Interpretation:
+
+       The bridge between identities.
+
+     ---------------------------------------------------------
+     DA FAMILY
+     ---------------------------------------------------------
+
+     Pronunciation:
+
+       DA
+
+     Core Meaning:
+
+       Occupancy
+       Presence
+       Inhabitation
+
+     Examples:
+
+       DA
+         Occupancy
+
+       DARIN
+         Village
+
+     Potential Descendants:
+
+       DASHA
+         Occupied Place
+
+       DAEN
+         Occupying Identity
+
+       DATOR
+         Settled Occupancy
+
+     Architect Interpretation:
+
+       That which lls.
+
+     ---------------------------------------------------------
+     AEL FAMILY
+     ---------------------------------------------------------
+
+     Pronunciation:
+
+       AYL
+
+     Core Meaning:
+
+       Topology
+       Structure
+       Form
+       Geometry
+
+     Examples:
+
+       AEL
+         Topology
+
+       AELRIN
+         Mountain
+fi
+Potential Descendants:
+
+  AELSHA
+    Structural Boundary
+
+  AELTOR
+    Closed Structure
+
+  AELVE
+    Structural Growth
+
+Architect Interpretation:
+
+  That which is shaped.
+
+---------------------------------------------------------
+NA FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  NA
+
+Core Meaning:
+
+  Expression
+  Manifestation
+  Basin State
+  Appearance
+
+Examples:
+
+  NAE
+    Basin
+
+  AENA
+    Energy
+
+  AAINA
+    Stored Energy
+
+Potential Descendants:
+
+  NARIN
+    Persistent Expression
+
+  NATOR
+    Closed Expression
+
+  NAVEL
+    Field Expression
+
+Architect Interpretation:
+
+  That which appears.
+
+---------------------------------------------------------
+VE FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  VE
+Core Meaning:
+
+  Propagation
+  Travel
+  Movement
+  Direction
+
+Examples:
+
+  VE
+    Propagation
+
+  VERIN
+    Road
+
+  VERA
+    Travel
+
+Potential Descendants:
+
+  VESHA
+    Passage
+
+  VETOR
+    Journey Completed
+
+  VENA
+    Directed Expression
+
+Architect Interpretation:
+
+  That which moves.
+
+---------------------------------------------------------
+TAL FAMILY
+---------------------------------------------------------
+
+Pronunciation:
+
+  TAL
+
+Core Meaning:
+
+  Stabilization
+  Retention
+  Resistance
+  Strength
+
+Examples:
+
+  TAL
+    Stabilization
+
+  TALRIN
+    Strength
+
+Potential Descendants:
+
+  TALTOR
+    Locked State
+
+  TALEN
+    Stable Identity
+       TALSHA
+         Reinforced Boundary
+
+     Architect Interpretation:
+
+       That which endures pressure.
+
+     ---------------------------------------------------------
+     TOR FAMILY
+     ---------------------------------------------------------
+
+     Pronunciation:
+
+       TOR
+
+     Core Meaning:
+
+       Closure
+       Completion
+       Resolution
+       Ful llment
+
+     Examples:
+
+       TOR
+         Closure
+
+       SHATOR
+         Gate
+
+       KAITOR
+         Binding Closure
+
+     Potential Descendants:
+
+       TORAEL
+         Completed Structure
+
+       TOREN
+         Resolved Identity
+
+       TORRIN
+         Lasting Completion
+
+     Architect Interpretation:
+
+       That which is complete.
+
+     ---------------------------------------------------------
+     SERA FAMILY
+     ---------------------------------------------------------
+
+     Pronunciation:
+
+       SEH-ra
+
+     Core Meaning:
+
+       Continuity
+       Source
+       Cause
+       Flow
+fi
+Examples:
+
+     SERA
+       Continuity
+
+Potential Descendants:
+
+     SERARIN
+       Lasting Continuity
+
+     SERAVEL
+       Field Continuity
+
+     SERAEN
+       Identity Source
+
+Architect Interpretation:
+
+     That which connects time.
+
+=========================================================
+ROOT GENERATION LAW
+=========================================================
+
+Every future Genesis word should be generated by:
+
+     Root
+       +
+     Root
+
+or
+
+     Root
+       +
+     Root
+       +
+     Root
+
+Examples:
+
+     REL + RIN
+       RELRIN
+       Friend
+
+     SHA + TOR
+       SHATOR
+       Gate
+
+     VE + RIN
+       VERIN
+       Road
+
+     KAI + EN
+       KAIEN
+       Binding
+
+     GEN + KOR + EN
+       GENKEN
+       ELDRIS
+
+=========================================================
+LEXICON CONSTRUCTION LAW
+=========================================================
+The Lexicon shall be organized by Root Family.
+
+Not alphabetically.
+
+Not by English category.
+
+Genesis scholars learn roots.
+
+Words inherit from roots.
+
+Meaning inherits from roots.
+
+Identity inherits from roots.
+
+=========================================================
+END OF GENESIS ROOT FAMILIES MASTER CANON v0.1
+=========================================================
+

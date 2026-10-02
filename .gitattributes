@@ -1,0 +1,4 @@
+# Preserve imported bytes, including historical text and manifest hashes.
+live-model/** -text
+/*.md text eol=lf
+/*.json text eol=lf
