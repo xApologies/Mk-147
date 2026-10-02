@@ -1,0 +1,582 @@
+MK-147 — INCREMENTAL CANON UPDATE 001
+VAELUM + ACCORD REGISTRY + HOSTILE ORGANIZATIONS
+
+TARGET REPOSITORY:
+https://github.com/xApologies/Mk-147
+
+ATTACHED UPDATE PACKAGE:
+MK147_INCREMENT_001_2026-10-02.zip
+
+MISSION
+
+Update the existing MK-147 GitHub repository with the attached incremental canon package.
+
+This is NOT a repository rebuild.
+
+The current GitHub repository is the authoritative MK-147 baseline. This ZIP contains only the new material developed after that baseline was established.
+
+Pull the latest repository state first, then integrate this increment into the existing live model.
+
+============================================================
+1. SYNCHRONIZE FIRST
+============================================================
+
+Target repository:
+
+https://github.com/xApologies/Mk-147
+
+Use the existing default branch, currently `main`.
+
+Before modifying anything:
+
+- fetch/pull the latest remote state;
+- verify you are operating on xApologies/Mk-147;
+- inspect the existing live-model hierarchy;
+- read the current CANON_STATUS.md;
+- read the current INDEX.md;
+- read the current terminology/governance files.
+
+Do not overwrite unrelated existing canon.
+
+============================================================
+2. READ THE UPDATE PACKAGE COMPLETELY
+============================================================
+
+Unpack:
+
+MK147_INCREMENT_001_2026-10-02.zip
+
+Read all included Markdown files before editing the repository.
+
+The package contains:
+
+- vaelum canon;
+- Accord Registry canon;
+- vaelum economic/tax doctrine;
+- vaelum operational/contract doctrine;
+- Hostile Organizations;
+- Pirates;
+- Pirate Islands;
+- Bandits;
+- Cartels;
+- Cabal of Ash and Crown;
+- provenance/decision boundaries;
+- supporting Genesis Point source PDFs.
+
+The Markdown files describe what has actually been accepted into MK-147.
+
+The PDFs are provenance sources.
+
+Do NOT treat every statement in the old Genesis Point PDFs as MK-147 canon.
+
+============================================================
+3. CANON AUTHORITY
+============================================================
+
+Existing MK-147 authority remains:
+
+Explicit Genesis decisions/corrections
+>
+later dedicated MK-147 canon
+>
+earlier recovery/workshop material
+>
+historical provenance.
+
+This incremental package represents new explicit MK-147 decisions and should be integrated accordingly.
+
+Do not allow old Genesis Point material to overwrite established MK-147 systems.
+
+============================================================
+4. TERMINOLOGY
+============================================================
+
+Canonical terminology is strict.
+
+aithren
+A-I-T-H-R-E-N
+lowercase ordinary noun
+
+vaelum
+V-A-E-L-U-M
+lowercase ordinary noun
+
+domai
+D-O-M-A-I
+lowercase ordinary noun
+
+aera
+lowercase
+
+raeon
+lowercase
+
+maege
+M-A-E-G-E
+
+ru’ne
+
+helkir
+lowercase
+
+eln
+lowercase
+
+ahm
+lowercase
+
+Nyx
+proper name
+
+Do not introduce `aethren`.
+
+Do not replace `maege` with conventional fantasy `mage`.
+
+============================================================
+5. VAELUM
+============================================================
+
+Integrate `vaelum` as the organizational layer for aithren.
+
+Core distinction:
+
+aithren = individual/cultural participation identity
+
+vaelum = persistent organization under which aithren may operate
+
+A vaelum is:
+
+- independent;
+- formally recognized;
+- contract-capable;
+- not a Crown military unit;
+- not a noble house;
+- not itself a geographic place.
+
+Aithren can work through a vaelum while remaining independent operators.
+
+============================================================
+6. ACCORD REGISTRY
+============================================================
+
+Integrate the Accord Registry as a Crown administrative domain.
+
+Its current canonical purpose is simple:
+
+The Accord Registry registers and formally recognizes vaelum.
+
+Hierarchy:
+
+Crown
+→ Accord Registry
+→ recognized vaelum
+→ aithren members/teams
+
+Do NOT import the older Genesis Point King's Highway architecture.
+
+Do NOT invent broader Accord Registry authority.
+
+The Registry currently establishes administrative recognition.
+
+Other Crown domains may use that recognized status when applying lawful benefits.
+
+============================================================
+7. VAELUM ECONOMIC RELATIONSHIP
+============================================================
+
+Integrate the distributed Crown incentive model.
+
+The Crown benefits from maintaining decentralized civilian/aithren capability without putting all aithren on permanent government payroll.
+
+Recognized vaelum may therefore receive qualifying economic benefits or tax reductions.
+
+Examples already accepted:
+
+- reduced taxation on qualifying harvested resources such as Genesis Dust recovered from ELDRIS;
+- property-related reductions or credits for qualifying vaelum facilities/headquarters;
+- housing/facility benefits associated with maintaining an operational organization.
+
+Example:
+
+A vaelum with approximately 200 members may own or lease a large headquarters/residential building and receive a modest qualifying property-related tax reduction.
+
+DO NOT invent exact percentages.
+
+DO NOT invent a complete tax code.
+
+Exact rates and categories remain OPEN.
+
+============================================================
+8. VAELUM OPERATIONAL ENVELOPE
+============================================================
+
+A vaelum is broader than a conventional fantasy monster-hunting guild.
+
+It functions as a private capability market / gap-filling civic institution.
+
+Potential clients include:
+
+- Crown;
+- nobles;
+- cities;
+- merchants;
+- caravans;
+- Blackstone;
+- other Institutions of Knowledge;
+- researchers;
+- scholars;
+- physicians;
+- private citizens;
+- other lawful institutions.
+
+Operational work may include:
+
+- security;
+- bandit suppression;
+- caravan escort;
+- merchant escort;
+- temporary guard forces;
+- dungeon escort;
+- Genesis-storm/domai support;
+- ELDRIS suppression;
+- exploration;
+- retrieval;
+- recovery;
+- harvesting;
+- rare-material acquisition;
+- investigation;
+- dangerous transportation;
+- logistics;
+- civil assistance;
+- medical support;
+- agricultural support;
+- infrastructure support;
+- unusual one-off environmental/event operations.
+
+Important example:
+
+A researcher who needs to enter a dungeon can hire a vaelum.
+
+The researcher controls the research objective.
+
+The vaelum may provide:
+
+- navigation;
+- route selection;
+- security;
+- ELDRIS response;
+- equipment/logistics;
+- safe working areas;
+- sample/material recovery;
+- emergency extraction.
+
+The vaelum fills the operational capability gap.
+
+============================================================
+9. CONTRACTS AND REPUTATION
+============================================================
+
+Contracts and organizational reputation are accepted concepts.
+
+Demonstrated competence may influence access to higher-risk or higher-value contracts.
+
+Do NOT automatically create a stereotypical fantasy quest-board bureaucracy.
+
+Exact systems for:
+
+- contract boards;
+- arbitration;
+- reputation scoring;
+- internal vaelum governance;
+
+remain OPEN unless already established elsewhere in the repository.
+
+============================================================
+10. HOSTILE ORGANIZATIONS
+============================================================
+
+Create or update an appropriate Hostile Organizations domain.
+
+Integrate the following organizational identities.
+
+------------------------
+PIRATES
+------------------------
+
+Major maritime criminal power.
+
+Organized piracy may include:
+
+- Pirate King;
+- major Pirate Lords/hubs;
+- subordinate fleets;
+- captains and crews;
+- independent pirates outside the primary hierarchy.
+
+Core criminal activities include:
+
+- illicit drug trade;
+- human trafficking / slave trade;
+- smuggling;
+- maritime extraction;
+- criminal logistics.
+
+Pirates are not merely random sea raiders.
+
+------------------------
+PIRATE ISLANDS
+------------------------
+
+Transfer the geographic/worldbuilding concept selectively.
+
+Pirate Islands are:
+
+- continent-scale fragmented volcanic archipelagos;
+- geologically unstable;
+- volcanic;
+- ash-heavy;
+- tectonically active;
+- extraordinarily regenerative ecologically.
+
+Core environmental rhythm:
+
+Growth
+→ Destruction
+→ Regrowth
+→ Repeat
+
+Pirates use these environments cyclically for:
+
+- staging;
+- extraction;
+- Genesis resources;
+- lumber/resources;
+- maritime logistics.
+
+Their geography, mobility, scale and timing make conventional eradication/blockade extremely difficult.
+
+IMPORTANT:
+
+Do NOT import the old Genesis Point permanent Domai Heart mechanics.
+
+Do NOT import Chimera ontology.
+
+Any future Pirate-Island Genesis mechanics must reconcile with the current MK-147 finite-lifetime `domai` model and current ELDRIS ontology.
+
+------------------------
+BANDITS
+------------------------
+
+Localized terrestrial criminal/predatory groups.
+
+Typical activities:
+
+- ambushes;
+- road obstruction;
+- night raids;
+- cargo theft;
+- supply theft;
+- kidnapping;
+- ransom;
+- hidden/relocatable camps.
+
+Bandits create travel insecurity and therefore create demand for caravan guards and vaelum contracts.
+
+Do NOT import old Sanctuary suppression cubes/rings unless explicitly approved later.
+
+------------------------
+CARTELS
+------------------------
+
+Regional illicit-market and leverage networks.
+
+They are not sovereign powers or conquering armies.
+
+Methods may include:
+
+- dependency;
+- vice;
+- addictive substances;
+- debt;
+- financial entanglement;
+- blackmail;
+- kidnapping;
+- trade leverage;
+- resource leverage;
+- proxy actors;
+- intermediaries;
+- deniable destabilization.
+
+Their objectives are typically:
+
+- durable income;
+- access;
+- resource control;
+- monopolies;
+- debt leverage;
+- market leverage.
+
+They generally do NOT seek:
+
+- crowns;
+- thrones;
+- public legitimacy;
+- open sovereign rule.
+
+Names, leaders, symbols and exact territories remain OPEN.
+
+------------------------
+CABAL OF ASH AND CROWN
+------------------------
+
+Secret organization of maegi, scholars and power-brokers.
+
+Transferable organizational characteristics:
+
+- secrecy;
+- subterfuge;
+- indirect control;
+- long-horizon planning;
+- institutional capture;
+- succession/lineage manipulation as political strategy;
+- cultural manipulation;
+- historical manipulation;
+- distributed clandestine operations;
+- century-scale strategic thinking.
+
+DO NOT automatically import Genesis Point supernatural mechanics such as:
+
+- ancient longevity magic;
+- destiny severance;
+- prophecy manipulation;
+- magical memory excision;
+- bloodline magic;
+- other unreconciled supernatural abilities.
+
+Those require later reconciliation with MK-147's Transduction ontology.
+
+Named members, hierarchy and sigils remain OPEN.
+
+============================================================
+11. DO NOT IMPORT
+============================================================
+
+The following Genesis Point systems are NOT part of this update:
+
+- Sanctuary architecture;
+- Chimera ontology;
+- permanent Domai Heart ontology;
+- Sanctuary suppression ring;
+- bandit suppression cubes;
+- old Genesis Point guild ELN model;
+- old Genesis Stone prime-density currency model;
+- Neon-value economics;
+- King's Highway architecture;
+- old Accord Registry travel architecture.
+
+Preserve their PDFs as provenance.
+
+Do not promote their incompatible mechanics into current canon.
+
+============================================================
+12. PROVENANCE
+============================================================
+
+Preserve all supporting PDFs included in the update package.
+
+Place/index them consistently with the repository's existing provenance architecture.
+
+They should remain identifiable as Genesis Point ancestry/provenance rather than blanket MK-147 authority.
+
+Update SOURCE_INDEX.md accordingly.
+
+============================================================
+13. REPOSITORY NAVIGATION
+============================================================
+
+Update as necessary:
+
+INDEX.md
+
+CANON_STATUS.md
+
+SOURCE_INDEX.md
+
+CHANGELOG.md
+
+Add:
+
+MK-147 Increment 001 — vaelum, Accord Registry, and hostile organizations — 2026-10-02
+
+to CHANGELOG.md.
+
+Make sure the new domains are discoverable from INDEX.md.
+
+============================================================
+14. VALIDATION
+============================================================
+
+Before committing:
+
+A. Verify existing MK-147 v2 canon remains intact.
+
+B. Verify `aithren` remains A-I-T-H-R-E-N.
+
+C. Verify `vaelum` is V-A-E-L-U-M and lowercase.
+
+D. Verify Accord Registry is only given authority actually established here.
+
+E. Verify King's Highway has NOT been silently imported.
+
+F. Verify hostile organizations are represented.
+
+G. Verify Genesis Point-specific excluded mechanics remain provenance-only.
+
+H. Verify source PDFs are preserved.
+
+I. Verify OPEN questions remain OPEN.
+
+J. Verify navigation links resolve.
+
+K. Verify no unrelated repository material was deleted.
+
+============================================================
+15. COMMIT AND PUSH
+============================================================
+
+Commit the incremental update.
+
+Suggested commit message:
+
+MK-147: add vaelum, Accord Registry, and hostile organizations
+
+Push to:
+
+https://github.com/xApologies/Mk-147
+
+default branch / main.
+
+Do not stop after making local changes.
+
+Push the commit.
+
+============================================================
+16. FINAL REPORT
+============================================================
+
+Report:
+
+1. repository;
+2. branch;
+3. commit hash;
+4. commit message;
+5. files added;
+6. files modified;
+7. source/provenance files added;
+8. validation results;
+9. any remaining OPEN issues;
+10. confirmation that remote push succeeded.
+
+If a conflict with existing canon is discovered, do not improvise a resolution.
+
+Preserve the existing authority, identify the conflict, and report it.

@@ -1,0 +1,109 @@
+{
+  "checkpoint": "MK-147 Increment 001 — vaelum, Accord Registry, and hostile organizations — 2026-10-02",
+  "repository": "https://github.com/xApologies/Mk-147",
+  "branch": "main",
+  "base_commit": "1ecd5af35560fcbb8a9b053bfc65a625662a207a",
+  "supplied_form": "Directory: MK147_INCREMENT_001_2026-10-02; no ZIP was supplied in this update.",
+  "package_files_preserved": 13,
+  "package_manifest_entries": 12,
+  "package_markdown_files_read": 5,
+  "pdf_files_preserved": 7,
+  "baseline_files_preserved": 67,
+  "existing_files_deleted": 0,
+  "source_hash_mismatches": 0,
+  "baseline_hash_mismatches": 0,
+  "relative_links_verified": 227,
+  "heading_links_verified": 18,
+  "baseline_open_items_preserved": 9,
+  "increment_open_categories": 11,
+  "terminology_check": "PASS: aithren and vaelum lowercase; no aethren or conventional mage in integrated canon.",
+  "authority_review": "PASS: Registry authority limited to registration/formal recognition; other Crown domains may apply lawful benefits. No exact tax rates, wider Registry law, or command powers introduced.",
+  "transfer_review": "PASS: all five hostile identities represented; excluded Genesis Point systems remain provenance-only; Cabal supernatural and Pirate-Island Genesis mechanics remain OPEN.",
+  "conflicts_found": [],
+  "manifest_note": "Original package manifest and Markdown are retained unchanged. PDF locations are mapped below. The manifest has 12 entries and does not include its own file; all 13 supplied files are covered here.",
+  "explicit_user_request": {
+    "repository_path": "live-model/07_PROVENANCE/increment-001/EXPLICIT_UPDATE_REQUEST.txt",
+    "sha256": "15f1fdceaa993b114cbc1f1606798d28b853f2e6251dea6aeaee52a9c1340785",
+    "role": "Historical record of user-authorized decisions and import scope, not standing operational instructions."
+  },
+  "files": [
+    {
+      "package_path": "01_CANON/HOSTILE_ORGANIZATIONS.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-001/package/01_CANON/HOSTILE_ORGANIZATIONS.md",
+      "bytes": 2004,
+      "sha256": "b7cad6873426e8595f765f341e869163ac79707143e09f309b604b0175066812"
+    },
+    {
+      "package_path": "01_CANON/VAELUM_AND_ACCORD.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-001/package/01_CANON/VAELUM_AND_ACCORD.md",
+      "bytes": 1839,
+      "sha256": "14d728c8d76cec48dd1ad538435038834ef5baae96472b7b364b6100304eb142"
+    },
+    {
+      "package_path": "02_PROVENANCE/DECISION_LEDGER.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/DECISION_LEDGER.md",
+      "bytes": 671,
+      "sha256": "b5bf430a65a334788bcf8ce15622980b30a7fb77caadeaf7bf3264e994d3499c"
+    },
+    {
+      "package_path": "02_PROVENANCE/MANIFEST.json",
+      "repository_path": "live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/MANIFEST.json",
+      "bytes": 1884,
+      "sha256": "bdfc5ad44751b4a4e1b16459c46d87b88a85225b09ff982267eade533322b2be"
+    },
+    {
+      "package_path": "03_CODEX/CODEX_UPDATE_PROMPT.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-001/package/03_CODEX/CODEX_UPDATE_PROMPT.md",
+      "bytes": 900,
+      "sha256": "4fa22a97d150a07842ea67c25f5db3bb273b13cb83b179a945f3679d8160f1ba"
+    },
+    {
+      "package_path": "04_SOURCES/1 Adventuring Guilds and Eln.pdf",
+      "repository_path": "live-model/05_SOURCES/genesis_point/increment-001/1 Adventuring Guilds and Eln.pdf",
+      "bytes": 37729,
+      "sha256": "da5cf3774311dbbdf807184e31002bbe595c1110391428cd4142c0a449ff2859"
+    },
+    {
+      "package_path": "04_SOURCES/29 Pirate Islands.pdf",
+      "repository_path": "live-model/05_SOURCES/genesis_point/increment-001/29 Pirate Islands.pdf",
+      "bytes": 86178,
+      "sha256": "d96c960e199299b4562aea1d6cd3530626438a7ca85427220377c2ff78b9ec97"
+    },
+    {
+      "package_path": "04_SOURCES/43 Bandits.pdf",
+      "repository_path": "live-model/05_SOURCES/genesis_point/increment-001/43 Bandits.pdf",
+      "bytes": 37089,
+      "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588"
+    },
+    {
+      "package_path": "04_SOURCES/44 Cartels.pdf",
+      "repository_path": "live-model/05_SOURCES/genesis_point/increment-001/44 Cartels.pdf",
+      "bytes": 40236,
+      "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f"
+    },
+    {
+      "package_path": "04_SOURCES/45 Cabal of Ash and Crown.pdf",
+      "repository_path": "live-model/05_SOURCES/genesis_point/increment-001/45 Cabal of Ash and Crown.pdf",
+      "bytes": 29230,
+      "sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7"
+    },
+    {
+      "package_path": "04_SOURCES/46 Evil Organizations.pdf",
+      "repository_path": "live-model/05_SOURCES/genesis_point/increment-001/46 Evil Organizations.pdf",
+      "bytes": 83251,
+      "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece"
+    },
+    {
+      "package_path": "04_SOURCES/6 City Sanctuary and Vaelum.pdf",
+      "repository_path": "live-model/05_SOURCES/genesis_point/increment-001/6 City Sanctuary and Vaelum.pdf",
+      "bytes": 102073,
+      "sha256": "c866c9f92d08eeeab59fc83251c5bdccec8b3f52237d33642f0a9d3d362952f8"
+    },
+    {
+      "package_path": "README.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-001/package/README.md",
+      "bytes": 236,
+      "sha256": "78524332c649cd15d48b8d515a6e362458ca1827729f0c923c89e119930d6f75"
+    }
+  ]
+}

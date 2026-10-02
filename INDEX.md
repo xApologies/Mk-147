@@ -2,9 +2,10 @@
 
 ## Major domains
 
-Dedicated v2 files take precedence over earlier recovery summaries. Related domains share supplied files; this navigation does not merge or rewrite them.
+Explicit Genesis decisions and later dedicated MK-147 canon take precedence over earlier recovery summaries. The v2 baseline and Increment 001 domains below form the current live model; unresolved details remain OPEN.
 
 - [Governance / Constitution](live-model/00_GOVERNANCE/CONSTITUTION.md)
+- [Increment 001 authority and terminology](live-model/00_GOVERNANCE/INCREMENT_001_AUTHORITY.md)
 - [Story / Series Architecture](live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md)
 - [Book 1 Arcs 1–4](live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md)
 - [Kira / Nyx / Binding Circle incompatibility](live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md)
@@ -29,13 +30,37 @@ Dedicated v2 files take precedence over earlier recovery summaries. Related doma
 - [Dimensional Ring](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
 - [Items & Equipment](live-model/02_DOMAINS/DIAMONDS_CURRENCY_EQUIPMENT.md)
 - [aithren culture](live-model/05_CULTURE/V2_CULTURE_CANON.md)
+- [vaelum](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#vaelum)
+- [Accord Registry](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#accord-registry)
+- [vaelum economics and tax doctrine](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#economic-and-tax-doctrine)
+- [vaelum operations and contracts](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#operational-and-contract-doctrine)
+- [Contracts and reputation](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#contracts-and-reputation)
+- [Hostile Organizations](live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md)
+- [Pirates](live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md#pirates)
+- [Pirate Islands](live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md#pirate-islands)
+- [Bandits](live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md#bandits)
+- [Cartels](live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md#cartels)
+- [Cabal of Ash and Crown](live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md#cabal-of-ash-and-crown)
 - [Chainmail Robe / Age of Knowledge](live-model/05_CULTURE/V2_CULTURE_CANON.md)
 - [Agriculture](live-model/05_CULTURE/V2_CULTURE_CANON.md)
 - [Genesis Language](live-model/06_LANGUAGE/V2_LANGUAGE_STATUS.md)
 - [Provenance](live-model/07_PROVENANCE/MANIFEST_V2.json)
-- [Open Questions](live-model/07_PROVENANCE/V2_OPEN_QUESTIONS.md)
+- [Open Questions — v2](live-model/07_PROVENANCE/V2_OPEN_QUESTIONS.md)
+- [Open Questions — Increment 001](live-model/07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md)
 
-## All supplied files
+## Increment 001 provenance
+
+- [Explicit user decisions and update request](live-model/07_PROVENANCE/increment-001/EXPLICIT_UPDATE_REQUEST.txt)
+- [Source PDFs and transfer boundaries](SOURCE_INDEX.md#increment-001--genesis-point-ancestry)
+- [Package README](live-model/07_PROVENANCE/increment-001/package/README.md)
+- [Original vaelum/Accord canon snapshot](live-model/07_PROVENANCE/increment-001/package/01_CANON/VAELUM_AND_ACCORD.md)
+- [Original hostile-organization canon snapshot](live-model/07_PROVENANCE/increment-001/package/01_CANON/HOSTILE_ORGANIZATIONS.md)
+- [Original decision ledger](live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/DECISION_LEDGER.md)
+- [Original package manifest](live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/MANIFEST.json)
+- [Archived package handoff](live-model/07_PROVENANCE/increment-001/package/03_CODEX/CODEX_UPDATE_PROMPT.md)
+- [Import validation and path mapping](live-model/07_PROVENANCE/increment-001/IMPORT_VALIDATION.json)
+
+## All supplied v2 baseline files
 
 See [source index](SOURCE_INDEX.md).
 

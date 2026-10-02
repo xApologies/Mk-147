@@ -44,3 +44,21 @@ Original sources are preserved unchanged and remain subject to canon authority. 
 - [05_SOURCES/Scaling(1).png](live-model/05_SOURCES/Scaling%281%29.png) — Systems visual reference
 - [05_SOURCES/Social Engine(1).pdf](live-model/05_SOURCES/Social%20Engine%281%29.pdf) — Culture/robe/social evidence
 - [05_SOURCES/Untitled_Artwork(1).jpg](live-model/05_SOURCES/Untitled_Artwork%281%29.jpg) — Original evidence; specific contribution unverified
+
+## Increment 001 — Genesis Point ancestry
+
+The [explicit user update request](live-model/07_PROVENANCE/increment-001/EXPLICIT_UPDATE_REQUEST.txt) is retained as a historical record of the accepted decisions and import scope. Its operational directions are not standing instructions for future work.
+
+Seven PDFs supplied with Increment 001 are preserved byte-for-byte under `live-model/05_SOURCES/genesis_point/increment-001/`. Their role is historical evidence. The accepted MK-147 transfer is defined by the package Markdown and explicit update request, integrated in [vaelum and Accord Registry](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md) and [Hostile Organizations](live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md). The descriptions below map source topics to that accepted scope; they do not adopt every claim in the PDFs.
+
+| Original source | Contribution and boundary |
+| --- | --- |
+| [1 Adventuring Guilds and Eln.pdf](live-model/05_SOURCES/genesis_point/increment-001/1%20Adventuring%20Guilds%20and%20Eln.pdf) | Organizational/economic ancestry; accepted vaelum contracts and distributed incentives are specified in current canon. Old guild ELN, Genesis Stone prime-density, and Neon-value economics are not imported. |
+| [6 City Sanctuary and Vaelum.pdf](live-model/05_SOURCES/genesis_point/increment-001/6%20City%20Sanctuary%20and%20Vaelum.pdf) | vaelum/administrative ancestry; current Registry authority is registration and recognition only. Sanctuary, King's Highway, and old Accord travel architecture are not imported. |
+| [29 Pirate Islands.pdf](live-model/05_SOURCES/genesis_point/increment-001/29%20Pirate%20Islands.pdf) | Selective Pirate-Island geography/ecology ancestry; permanent Domai Heart and Chimera mechanics are not imported. |
+| [43 Bandits.pdf](live-model/05_SOURCES/genesis_point/increment-001/43%20Bandits.pdf) | Bandit organizational ancestry; suppression cubes/rings are not imported. |
+| [44 Cartels.pdf](live-model/05_SOURCES/genesis_point/increment-001/44%20Cartels.pdf) | Cartel illicit-market/leverage ancestry; names, leaders, symbols, and exact territories remain OPEN. |
+| [45 Cabal of Ash and Crown.pdf](live-model/05_SOURCES/genesis_point/increment-001/45%20Cabal%20of%20Ash%20and%20Crown.pdf) | Clandestine organizational/political ancestry; old supernatural abilities require later reconciliation and are not automatically current canon. |
+| [46 Evil Organizations.pdf](live-model/05_SOURCES/genesis_point/increment-001/46%20Evil%20Organizations.pdf) | Hostile-organization ancestry; only the identities and characteristics explicitly accepted in Increment 001 transfer. |
+
+Original package records: [README](live-model/07_PROVENANCE/increment-001/package/README.md), [vaelum canon snapshot](live-model/07_PROVENANCE/increment-001/package/01_CANON/VAELUM_AND_ACCORD.md), [hostile canon snapshot](live-model/07_PROVENANCE/increment-001/package/01_CANON/HOSTILE_ORGANIZATIONS.md), [decision ledger](live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/DECISION_LEDGER.md), [manifest](live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/MANIFEST.json), and [handoff text](live-model/07_PROVENANCE/increment-001/package/03_CODEX/CODEX_UPDATE_PROMPT.md). The [validation inventory](live-model/07_PROVENANCE/increment-001/IMPORT_VALIDATION.json) preserves hashes and maps all 13 original package files to their repository locations.

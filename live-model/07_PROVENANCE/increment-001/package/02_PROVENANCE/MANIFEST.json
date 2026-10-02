@@ -1,0 +1,62 @@
+[
+  {
+    "path": "01_CANON/HOSTILE_ORGANIZATIONS.md",
+    "bytes": 2004,
+    "sha256": "b7cad6873426e8595f765f341e869163ac79707143e09f309b604b0175066812"
+  },
+  {
+    "path": "01_CANON/VAELUM_AND_ACCORD.md",
+    "bytes": 1839,
+    "sha256": "14d728c8d76cec48dd1ad538435038834ef5baae96472b7b364b6100304eb142"
+  },
+  {
+    "path": "02_PROVENANCE/DECISION_LEDGER.md",
+    "bytes": 671,
+    "sha256": "b5bf430a65a334788bcf8ce15622980b30a7fb77caadeaf7bf3264e994d3499c"
+  },
+  {
+    "path": "03_CODEX/CODEX_UPDATE_PROMPT.md",
+    "bytes": 900,
+    "sha256": "4fa22a97d150a07842ea67c25f5db3bb273b13cb83b179a945f3679d8160f1ba"
+  },
+  {
+    "path": "04_SOURCES/1 Adventuring Guilds and Eln.pdf",
+    "bytes": 37729,
+    "sha256": "da5cf3774311dbbdf807184e31002bbe595c1110391428cd4142c0a449ff2859"
+  },
+  {
+    "path": "04_SOURCES/29 Pirate Islands.pdf",
+    "bytes": 86178,
+    "sha256": "d96c960e199299b4562aea1d6cd3530626438a7ca85427220377c2ff78b9ec97"
+  },
+  {
+    "path": "04_SOURCES/43 Bandits.pdf",
+    "bytes": 37089,
+    "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588"
+  },
+  {
+    "path": "04_SOURCES/44 Cartels.pdf",
+    "bytes": 40236,
+    "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f"
+  },
+  {
+    "path": "04_SOURCES/45 Cabal of Ash and Crown.pdf",
+    "bytes": 29230,
+    "sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7"
+  },
+  {
+    "path": "04_SOURCES/46 Evil Organizations.pdf",
+    "bytes": 83251,
+    "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece"
+  },
+  {
+    "path": "04_SOURCES/6 City Sanctuary and Vaelum.pdf",
+    "bytes": 102073,
+    "sha256": "c866c9f92d08eeeab59fc83251c5bdccec8b3f52237d33642f0a9d3d362952f8"
+  },
+  {
+    "path": "README.md",
+    "bytes": 236,
+    "sha256": "78524332c649cd15d48b8d515a6e362458ca1827729f0c923c89e119930d6f75"
+  }
+]
