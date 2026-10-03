@@ -1,0 +1,126 @@
+{
+  "checkpoint": "MK-147 Increment 002 — kingdom, infrastructure, and identity — 2026-10-02",
+  "repository": "https://github.com/xApologies/Mk-147",
+  "branch": "main",
+  "base_commit": "a9a3a7e1382ab525fdcd1eb0dc4f664fc1f7e601",
+  "supplied_form": "Directory: MK147_INCREMENT_002",
+  "package_files_preserved": 13,
+  "manifest_entries": 12,
+  "package_markdown_files_read": 9,
+  "visual_references_inspected_and_preserved": 3,
+  "pre_existing_files_retained": 94,
+  "pre_existing_files_unchanged": 89,
+  "existing_files_modified": [
+    "README.md",
+    "INDEX.md",
+    "CANON_STATUS.md",
+    "SOURCE_INDEX.md",
+    "CHANGELOG.md"
+  ],
+  "existing_files_deleted": 0,
+  "hash_mismatches": 0,
+  "relative_links_verified": 343,
+  "heading_links_verified": 34,
+  "open_items": {
+    "v2": 9,
+    "increment_001": 11,
+    "increment_002": 9
+  },
+  "terminology_review": "PASS: vaelle/vaen/velis added; aithren/vaelum/domai/ru’ne and other established terminology retained. Integrated apostrophe typography follows existing governance; original package bytes unchanged.",
+  "semantic_review": "PASS: examples/author approximations remain qualified; analogies are author-only; no awakening potions, permanent Domai Heart/Class-0 Chimera, blanket Genesis Point authority, or invented final shaping noun.",
+  "conflict_audit": "live-model/07_PROVENANCE/increment-002/CONFLICT_AUDIT.md",
+  "unresolved_conflicts": [],
+  "manifest_note": "Original manifest covers twelve files and excludes itself. This inventory covers all thirteen supplied files, preserving their full hierarchy under package/.",
+  "integrated_domain_map": {
+    "01_KINGDOM_SETTLEMENTS.md": "live-model/02_WORLD/KINGDOM_SETTLEMENTS.md",
+    "02_SIGIL_ENGINEERING.md": "live-model/04_SYSTEMS/SIGIL_ENGINEERING.md",
+    "03_ARCHITECTS_VELIS.md": "live-model/04_SYSTEMS/ARCHITECTS_VELIS.md",
+    "04_ALCHEMY.md": "live-model/04_SYSTEMS/ALCHEMY.md",
+    "05_BINDING_VAEN.md": "live-model/04_SYSTEMS/BINDING_VAEN.md",
+    "06_STORMS_DOMAI.md": "live-model/02_WORLD/STORMS_DOMAI.md",
+    "07_TERMS_AND_OPEN.md": [
+      "live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md",
+      "live-model/07_PROVENANCE/INCREMENT_002_OPEN_QUESTIONS.md"
+    ]
+  },
+  "files": [
+    {
+      "package_path": "01_KINGDOM_SETTLEMENTS.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/01_KINGDOM_SETTLEMENTS.md",
+      "bytes": 1425,
+      "sha256": "856894cf1e0e4e8ddd10d99ff41defc5ef6ec1c3765a244e9b6afe61eaee129d"
+    },
+    {
+      "package_path": "02_SIGIL_ENGINEERING.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/02_SIGIL_ENGINEERING.md",
+      "bytes": 1480,
+      "sha256": "f35f2a646f86983c5c2a60c9f18184b71d0df6d2a5495fb9c7cbe871247cd53f"
+    },
+    {
+      "package_path": "03_ARCHITECTS_VELIS.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/03_ARCHITECTS_VELIS.md",
+      "bytes": 890,
+      "sha256": "1726799c7e52160f67c2559f6173c452f7716de89a63d18317bed5ca9ffb4408"
+    },
+    {
+      "package_path": "04_ALCHEMY.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/04_ALCHEMY.md",
+      "bytes": 1491,
+      "sha256": "654b97e6ab14b8647bc92e2a5c68f208a8d4fda61d676ff1faae1ddc9cb47488"
+    },
+    {
+      "package_path": "05_BINDING_VAEN.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/05_BINDING_VAEN.md",
+      "bytes": 1738,
+      "sha256": "96102217a6e6d012c2534788c53909cc27bf23296a3a29dbca32cc6ad794d383"
+    },
+    {
+      "package_path": "06_STORMS_DOMAI.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/06_STORMS_DOMAI.md",
+      "bytes": 1772,
+      "sha256": "04e32a877cb90d4ea1ef40af27684b43cb303c994c8ebcf201d7aaa71c3cc23f"
+    },
+    {
+      "package_path": "07_TERMS_AND_OPEN.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/07_TERMS_AND_OPEN.md",
+      "bytes": 904,
+      "sha256": "c5299e3781b6d71f3291d9a865a9506679b3015ff274ebfc801b8de570786ca2"
+    },
+    {
+      "package_path": "CODEX_UPDATE_PROMPT.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/CODEX_UPDATE_PROMPT.md",
+      "bytes": 1738,
+      "sha256": "6f096225bbd430f9931874a3bda46070cf11c6a203e6e56bbe03eb7711eb3b5a"
+    },
+    {
+      "package_path": "MANIFEST.json",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/MANIFEST.json",
+      "bytes": 1656,
+      "sha256": "7c4fc74ade651cbfbdeabe0fff64056a08e6f6853f2837a7f7ec0d1820447807"
+    },
+    {
+      "package_path": "README.md",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/README.md",
+      "bytes": 418,
+      "sha256": "d47e0cc26a10bff7791470e253dd5d2336c52e047b357c50c0b405b60268d3ba"
+    },
+    {
+      "package_path": "visual_references/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00(1).PNG",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/visual_references/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00(1).PNG",
+      "bytes": 3308190,
+      "sha256": "98ee1bf7cf0a613c0409d07f47201b68ae844f6850898d7097a81f2db90bb58a"
+    },
+    {
+      "package_path": "visual_references/IMG_0530(1).jpg",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/visual_references/IMG_0530(1).jpg",
+      "bytes": 67292,
+      "sha256": "f1b3cf35d4805c4a5ee6dbd826d09386d4d51edbf5d5d582d332bb63891317b5"
+    },
+    {
+      "package_path": "visual_references/IMG_4668.jpeg",
+      "repository_path": "live-model/07_PROVENANCE/increment-002/package/visual_references/IMG_4668.jpeg",
+      "bytes": 532951,
+      "sha256": "acd799f9bbc96eaa30dd7d4667263a874e8fbb6a71187ce866ac2a2ab13d2a45"
+    }
+  ]
+}

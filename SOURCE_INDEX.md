@@ -62,3 +62,28 @@ Seven PDFs supplied with Increment 001 are preserved byte-for-byte under `live-m
 | [46 Evil Organizations.pdf](live-model/05_SOURCES/genesis_point/increment-001/46%20Evil%20Organizations.pdf) | Hostile-organization ancestry; only the identities and characteristics explicitly accepted in Increment 001 transfer. |
 
 Original package records: [README](live-model/07_PROVENANCE/increment-001/package/README.md), [vaelum canon snapshot](live-model/07_PROVENANCE/increment-001/package/01_CANON/VAELUM_AND_ACCORD.md), [hostile canon snapshot](live-model/07_PROVENANCE/increment-001/package/01_CANON/HOSTILE_ORGANIZATIONS.md), [decision ledger](live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/DECISION_LEDGER.md), [manifest](live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/MANIFEST.json), and [handoff text](live-model/07_PROVENANCE/increment-001/package/03_CODEX/CODEX_UPDATE_PROMPT.md). The [validation inventory](live-model/07_PROVENANCE/increment-001/IMPORT_VALIDATION.json) preserves hashes and maps all 13 original package files to their repository locations.
+
+## Increment 002 — kingdom, infrastructure, and identity
+
+The complete thirteen-file package is preserved unchanged under [increment-002/package](live-model/07_PROVENANCE/increment-002/package/). Its text records explicit current Genesis decisions authorized by the user through `CODEX_UPDATE_PROMPT.md`. Its images are visual references; their depicted details do not independently establish lore, named places, dimensions, or mechanics. Existing historical sources retain their prior authority status.
+
+| Original record | Contribution / integrated destination |
+| --- | --- |
+| [01_KINGDOM_SETTLEMENTS.md](live-model/07_PROVENANCE/increment-002/package/01_KINGDOM_SETTLEMENTS.md) | [Territorial domains, settlement hierarchy, stabilization, and Wilds](live-model/02_WORLD/KINGDOM_SETTLEMENTS.md). Example sizes/timelines/radii retain their qualifiers. |
+| [02_SIGIL_ENGINEERING.md](live-model/07_PROVENANCE/increment-002/package/02_SIGIL_ENGINEERING.md) | [Physical ru’ne/sigils/arrays, persistence, and industry](live-model/04_SYSTEMS/SIGIL_ENGINEERING.md). Routine craft/profession remains OPEN. |
+| [03_ARCHITECTS_VELIS.md](live-model/07_PROVENANCE/increment-002/package/03_ARCHITECTS_VELIS.md) | [Architect field topology and velis maintenance](live-model/04_SYSTEMS/ARCHITECTS_VELIS.md). “Anchor” is author shorthand. |
+| [04_ALCHEMY.md](live-model/07_PROVENANCE/increment-002/package/04_ALCHEMY.md) | [Alchemy, infused stock, Type 1–5 scaffold, and growing media](live-model/04_SYSTEMS/ALCHEMY.md). No awakening potions; illustrative mechanisms/approximations remain qualified. |
+| [05_BINDING_VAEN.md](live-model/07_PROVENANCE/increment-002/package/05_BINDING_VAEN.md) | [vaen, selective Binding, shaping/PSSP separation, and fatigue](live-model/04_SYSTEMS/BINDING_VAEN.md). Final shaping terminology remains OPEN. |
+| [06_STORMS_DOMAI.md](live-model/07_PROVENANCE/increment-002/package/06_STORMS_DOMAI.md) | [Storms, bounded domai, perception, progressive unraveling, and response](live-model/02_WORLD/STORMS_DOMAI.md). No permanent Domai Heart/Class-0 Chimera ontology. |
+| [07_TERMS_AND_OPEN.md](live-model/07_PROVENANCE/increment-002/package/07_TERMS_AND_OPEN.md) | [vaelle and distinct terminology](live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md); [all nine OPEN items](live-model/07_PROVENANCE/INCREMENT_002_OPEN_QUESTIONS.md). |
+| [README.md](live-model/07_PROVENANCE/increment-002/package/README.md) | Original package date, scope, and authority statement. |
+| [CODEX_UPDATE_PROMPT.md](live-model/07_PROVENANCE/increment-002/package/CODEX_UPDATE_PROMPT.md) | User-invoked update instructions and exclusions; retained as the record of this update, not standing instructions for future work. |
+| [MANIFEST.json](live-model/07_PROVENANCE/increment-002/package/MANIFEST.json) | Original sizes/SHA-256 hashes for twelve files; the manifest itself is the thirteenth supplied file. |
+
+Visual descriptions below record what is depicted, not an assignment to a canonical location or a claim of exact mechanical function:
+
+- [4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00(1).PNG](live-model/07_PROVENANCE/increment-002/package/visual_references/4B985E5F-BFDA-45BD-B8D5-9D933C2F4A00%281%29.PNG): pale-stone pedestrian streetscape/courtyard, planted watercourse, trees, and seating. No named site or replacement for Blackstone's established dark-stone architecture is asserted.
+- [IMG_0530(1).jpg](live-model/07_PROVENANCE/increment-002/package/visual_references/IMG_0530%281%29.jpg): black orthogonal geometric marks on white. No universal sigil layout or encoded meaning is assigned.
+- [IMG_4668.jpeg](live-model/07_PROVENANCE/increment-002/package/visual_references/IMG_4668.jpeg): luminous translucent dome-like boundary in dark terrain. No fixed domai size, visibility range, atmospheric palette, or consciousness is inferred.
+
+See [conflict audit](live-model/07_PROVENANCE/increment-002/CONFLICT_AUDIT.md) and [validation/path inventory](live-model/07_PROVENANCE/increment-002/IMPORT_VALIDATION.json). Original package typography is unchanged; integrated canon uses the established `ru’ne` spelling.

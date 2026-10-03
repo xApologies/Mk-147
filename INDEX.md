@@ -2,24 +2,37 @@
 
 ## Major domains
 
-Explicit Genesis decisions and later dedicated MK-147 canon take precedence over earlier recovery summaries. The v2 baseline and Increment 001 domains below form the current live model; unresolved details remain OPEN.
+Explicit Genesis decisions and later dedicated MK-147 canon take precedence over earlier recovery summaries. The v2 baseline and Increment 001–002 domains below form the current live model; unresolved details remain OPEN.
 
 - [Governance / Constitution](live-model/00_GOVERNANCE/CONSTITUTION.md)
 - [Increment 001 authority and terminology](live-model/00_GOVERNANCE/INCREMENT_001_AUTHORITY.md)
+- [Increment 002 authority and terminology — vaelle, vaen, velis](live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md)
 - [Story / Series Architecture](live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md)
 - [Book 1 Arcs 1–4](live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md)
 - [Kira / Nyx / Binding Circle incompatibility](live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md)
 - [Blackstone](live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md)
 - [Starscape](live-model/02_WORLD/V2_WORLD_CANON.md#starscape)
+- [Kingdom territorial domains](live-model/02_WORLD/KINGDOM_SETTLEMENTS.md#territorial-domains)
+- [Crown settlement hierarchy](live-model/02_WORLD/KINGDOM_SETTLEMENTS.md#crown-settlement-hierarchy)
+- [Organic towns and dungeon-support settlements](live-model/02_WORLD/KINGDOM_SETTLEMENTS.md#towns-and-dungeon-support-settlements)
+- [Stabilized territory and the Wilds](live-model/02_WORLD/KINGDOM_SETTLEMENTS.md#stabilized-territory-and-the-wilds)
 - [ELDRIS](live-model/02_WORLD/V2_WORLD_CANON.md#eldris)
 - [Dungeons](live-model/02_WORLD/V2_WORLD_CANON.md#dungeons)
 - [King's Tournament](live-model/02_WORLD/V2_WORLD_CANON.md#dungeons)
-- [domai](live-model/02_WORLD/V2_WORLD_CANON.md#domai)
+- [Genesis storms and domai](live-model/02_WORLD/STORMS_DOMAI.md)
+- [domai perception](live-model/02_WORLD/STORMS_DOMAI.md#basin-classes-and-perception)
+- [domai core and lifecycle](live-model/02_WORLD/STORMS_DOMAI.md#core-and-lifecycle)
 - [Transduction / aera](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
-- [Binding Circles](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
-- [PSSP](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
-- [ru’ne / sigils](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
-- [Architects / professional classes](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
+- [vaen](live-model/04_SYSTEMS/BINDING_VAEN.md)
+- [Binding Circles and identity selection](live-model/04_SYSTEMS/BINDING_VAEN.md#binding)
+- [Shaping and PSSP](live-model/04_SYSTEMS/BINDING_VAEN.md#shaping-and-pssp)
+- [Fatigue](live-model/04_SYSTEMS/BINDING_VAEN.md#fatigue)
+- [ru’ne / sigils](live-model/04_SYSTEMS/SIGIL_ENGINEERING.md)
+- [Sigil arrays and industry](live-model/04_SYSTEMS/SIGIL_ENGINEERING.md#arrays-and-industry)
+- [Architects and velis](live-model/04_SYSTEMS/ARCHITECTS_VELIS.md)
+- [Professional classes](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
+- [Alchemy and Genesis materials](live-model/04_SYSTEMS/ALCHEMY.md)
+- [Alchemical Type 1–5 scaffold](live-model/04_SYSTEMS/ALCHEMY.md#type-15-scaffold)
 - [Maege Glass](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
 - [Genesis Constructs](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
 - [Genesis Cards](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
@@ -30,6 +43,7 @@ Explicit Genesis decisions and later dedicated MK-147 canon take precedence over
 - [Dimensional Ring](live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md)
 - [Items & Equipment](live-model/02_DOMAINS/DIAMONDS_CURRENCY_EQUIPMENT.md)
 - [aithren culture](live-model/05_CULTURE/V2_CULTURE_CANON.md)
+- [vaelle — nobility](live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md#terminology)
 - [vaelum](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#vaelum)
 - [Accord Registry](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#accord-registry)
 - [vaelum economics and tax doctrine](live-model/02_DOMAINS/VAELUM_AND_ACCORD.md#economic-and-tax-doctrine)
@@ -47,6 +61,15 @@ Explicit Genesis decisions and later dedicated MK-147 canon take precedence over
 - [Provenance](live-model/07_PROVENANCE/MANIFEST_V2.json)
 - [Open Questions — v2](live-model/07_PROVENANCE/V2_OPEN_QUESTIONS.md)
 - [Open Questions — Increment 001](live-model/07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md)
+- [Open Questions — Increment 002](live-model/07_PROVENANCE/INCREMENT_002_OPEN_QUESTIONS.md)
+
+## Increment 002 provenance
+
+- [Source decisions and visual references](SOURCE_INDEX.md#increment-002--kingdom-infrastructure-and-identity)
+- [Complete original package](live-model/07_PROVENANCE/increment-002/package/)
+- [Original package manifest](live-model/07_PROVENANCE/increment-002/package/MANIFEST.json)
+- [Conflict audit](live-model/07_PROVENANCE/increment-002/CONFLICT_AUDIT.md)
+- [Import validation and path mapping](live-model/07_PROVENANCE/increment-002/IMPORT_VALIDATION.json)
 
 ## Increment 001 provenance
 

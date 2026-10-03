@@ -13,3 +13,10 @@
 - Added a terminology/authority addendum and an increment OPEN ledger while preserving all supplied v2 canon and provenance unchanged.
 - Preserved all 13 increment package files, including seven original PDFs; retained the package manifest and recorded original-to-repository path mappings and validation.
 - Updated repository navigation, canon status, and source indexing. Exact law/tax/contract machinery, named hostile populations, and unreconciled supernatural mechanics remain OPEN.
+
+## MK-147 Increment 002 — kingdom, infrastructure, and identity — 2026-10-02
+
+- Integrated kingdom settlements/stabilized territory/Wilds; physical ru’ne/sigils/arrays/industry; Architects and velis; Alchemy and Type 1–5 materials; vaen and Binding/identity/PSSP/fatigue; and Genesis storms/domai perception/lifecycle.
+- Added vaelle terminology, authority boundaries, and all nine increment OPEN items. Preserved example qualifiers and author-only analogies; no final shaping noun or missing mathematics was invented.
+- Preserved all thirteen supplied package files intact, including three visual references and the original manifest. Added a conflict audit and hash/path validation record.
+- Updated README, domain navigation, canon status, and source index. Existing v2 and Increment 001 canon/provenance remain unchanged; no genuine unresolved conflict was found.
